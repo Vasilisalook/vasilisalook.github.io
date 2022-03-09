@@ -14,6 +14,7 @@ tags: [artificial intelligence, intro]
 ## A reflective piece (What exactly have I learnt and how?)
 
 https://www.youtube.com/watch?v=TRIys0HLJuU
+This is a [good guide](https://www.markdownguide.org/basic-syntax/) to learn about the basic markdown syntax.
 
 ## Meeting notes (from various meetings with team members and tutor, where applicable). 
 
