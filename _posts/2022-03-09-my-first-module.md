@@ -7,7 +7,7 @@ tags: [artificial intelligence, intro]
 ---
 
 
-## Summary of the module
+## Summary
 
 ## Artefacts
 
