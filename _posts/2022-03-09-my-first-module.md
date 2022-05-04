@@ -21,7 +21,6 @@ The [Data Mining with WEKA](https://youtu.be/LcHw2ph6bss) video course.
 ## Findings
 
 Thanks to Linux Command Line Interface guide I stop being afraid of the Terminal.
-
 It is not like a "death window" for me anymore, I prefer to create new directories from there.
 
 ## Skills matrix
