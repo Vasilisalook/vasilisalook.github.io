@@ -13,7 +13,8 @@ tags: [artificial intelligence, intro]
 
 **Anna – a Divorce Predictor Robot**
 
-<p> Using this questionnaire, an ANN robot predicts if your family is close to divorce or not.<br>
+<p> Using this questionnaire, robot Anna based on ANN(Articial Neural Networks)<br>
+predicts if your family is close to divorce or not.<br>
 Please, take it with a pitch of salt.<br>
 The dataset was created by Mustafa Kemal Yöntem et al. in 2019.</p>
 
