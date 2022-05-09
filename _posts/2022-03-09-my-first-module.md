@@ -17,7 +17,7 @@ tags: [artificial intelligence, intro]
 Please, take it with a pitch of salt.<br> 
 The dataset was created by Mustafa Kemal Yöntem et al. in 2019.
 A link to to the [research.](www.instagram.com/vasilisalook)
-</p> 
+
 
 ## Sources
 
