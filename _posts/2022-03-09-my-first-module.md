@@ -6,12 +6,11 @@ categories: Education
 tags: [artificial intelligence, intro]
 ---
 
-
 ## Summary
 
 ## Artefacts
 
-**Anna – a Divorce Predictor Robot**
+   **Anna – a Divorce Predictor Robot**
 
 ![Anna](/assets/images/banners/Anna.jpg)
 
