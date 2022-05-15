@@ -31,7 +31,7 @@ It is not like a "death window" for me anymore, I prefer to create new directori
 
 ## Sources
 
-I used this [instruction](https://www.youtube.com/watch?v=TRIys0HLJuU) to create my ouwn website on GitHub.
+I used this [instruction](https://www.youtube.com/watch?v=TRIys0HLJuU) to create my own website on GitHub.
 
 This is a [good guide](https://www.markdownguide.org/basic-syntax/) to learn about the basic markdown syntax.
 
