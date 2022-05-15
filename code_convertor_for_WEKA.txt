@@ -1,0 +1,12 @@
+file_name = input("Please, insert the exact name of the arff file.")
+answers = input("Please, insert a list of answers.")
+data = answers.split(',')
+
+print('@relation', file_name)
+print()
+for i in range(54):
+    print('@attribute Atr' + str(i+1), '{' + str(data[i]) + '}')
+print('@attribute Class {0,1}')
+print()
+print('@data')
+print(answers)
