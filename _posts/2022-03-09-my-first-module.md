@@ -20,7 +20,7 @@ Please, take it with a pitch of salt.
 <a href="/Questions%20Sheet%20for%20AI%20Divorce%20evaluate.docx">The Questionnaire (EN/RU).</a><br> 
 The dataset was created by Mustafa Kemal Yöntem et al. in 2019.
 <a href="https://www.researchgate.net/publication/334170931_DIVORCE_PREDICTION_USING_CORRELATION_BASED_FEATURE_SELECTION_AND_ARTIFICIAL_NEURAL_NETWORKS" target="_blank">A link to the research.</a></p>
-I wrote a code in Python to convert quickly the line of numbers (answers) to an arrf-file,<br>
+I wrote a code in Python to convert quickly the line of numbers (answers) to an arff-file,<br>
 which is appropriate for the WEKA model.
 <a href="https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/code_convertor_for_WEKA.txt">The code-converter from the list to a WEKA-file.</a><br> 
 
