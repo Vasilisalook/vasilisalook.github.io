@@ -14,7 +14,7 @@ tags: [artificial intelligence, intro]
 
    ![Anna](/assets/images/banners/Anna.jpg)
 
-<p> Using this questionnaire based on ANN (Articial Neural Networks) robot Anna predicts<br>
+<p> Using this questionnaire based on ANN (Artificial Neural Networks) robot Anna predicts<br>
   if your family is close to divorce or not.<br>
 Please, take it with a pinch of salt. 
 <a href="/Questions%20Sheet%20for%20AI%20Divorce%20evaluate.docx">The Questionnaire (EN/RU).</a><br> 
