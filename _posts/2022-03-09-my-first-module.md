@@ -8,7 +8,7 @@ tags: [artificial intelligence, intro]
 
 ## Summary
 
-From realizing that Aristotle Invented Computer Science with the foundations of mathematical logic to creating my own way of using Bank Credit Scoring dataset in Machine Learning – this first module immerses with the Github, Python, Linux, Jupiter Notebook, WEKA and another useful tools to start the journey to the exabytes. We had at least two interesting Collaborative Learning Discussions with fellow students. I launched first one had with a topic “Emotion Recognition AI in a contact center – an amazing problem-solving tool or a first step to the “Black Mirror”?”, and another one “Bottlenecks of Supervised Learning & Pitfalls of Unsupervised Learning Algorithms”.
+From realizing that Aristotle Invented Computer Science with the foundations of mathematical logic to creating my own way of using Bank Credit Scoring dataset in Machine Learning – this first module helps to immerse myself deeply with the Github, Python, Linux, Jupiter Notebook, WEKA and another useful tools to start my journey to the exabytes. We had at least two interesting Collaborative Learning Discussions with fellow students. I launched first one had with a topic “Emotion Recognition AI in a contact center – an amazing problem-solving tool or a first step to the “Black Mirror”?”, and another one “Bottlenecks of Supervised Learning & Pitfalls of Unsupervised Learning Algorithms”.
 
 ## Artefacts
 
@@ -29,7 +29,9 @@ which is appropriate for the WEKA model.
 ## Insights
 
 <p>Thanks to Linux Command Line Interface guide I stop being afraid of the Terminal.<br>
-It is not like a "death window" for me anymore, I prefer to create new directories from there.</p>
+It is not like a "death window" for me anymore, I prefer to create new directories from there.<br>
+Persents and Perrsantage Points are different concepts.<br>
+The work with AI includes a lot of preprocessing. Machine evaluates faster, but you are cleverer.</p>
 
 ## Sources
 
