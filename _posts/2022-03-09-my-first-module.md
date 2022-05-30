@@ -28,10 +28,10 @@ which is appropriate for the WEKA model.
 
 ## Insights
 
-<p>Thanks to Linux Command Line Interface guide I stop being afraid of the Terminal.<br>
+<p>1. Thanks to Linux Command Line Interface guide I stop being afraid of the Terminal.<br>
 It is not like a "death window" for me anymore, I prefer to create new directories from there.<br>
-Persents and Perrsantage Points are different concepts.<br>
-The work with AI includes a lot of preprocessing. Machine evaluates faster, but you are cleverer.</p>
+2. Persents and Perrsantage Points are different concepts.<br>
+3. The work with AI includes a lot of preprocessing. Machine evaluates faster, but you are cleverer.</p>
 
 ## Sources
 
