@@ -8,7 +8,7 @@ tags: [artificial intelligence, intro]
 
 ## Summary
 
-From realizing that Aristotle Invented Computer Science with the foundations of mathematical logic to creating my own way of using Bank Credit Scoring dataset in Machine Learning – this first module immerses with the Github, Python, Linux, Jupiter Notebook, WEKA and another useful tools to start the journey to the exabytes. We had at least two interesting Collaborative Learning Discussions with fellow students. I launched first one had a topic “Emotion Recognition AI in a contact center – an amazing problem-solving tool or a first step to the “Black Mirror”?”, and another one “Bottlenecks of Supervised Learning & Pitfalls of Unsupervised Learning Algorithms”.![image](https://user-images.githubusercontent.com/93581837/171004559-ff81b21c-06e4-46ac-95f0-13713efaeb07.png)
+From realizing that Aristotle Invented Computer Science with the foundations of mathematical logic to creating my own way of using Bank Credit Scoring dataset in Machine Learning – this first module immerses with the Github, Python, Linux, Jupiter Notebook, WEKA and another useful tools to start the journey to the exabytes. We had at least two interesting Collaborative Learning Discussions with fellow students. I launched first one had with a topic “Emotion Recognition AI in a contact center – an amazing problem-solving tool or a first step to the “Black Mirror”?”, and another one “Bottlenecks of Supervised Learning & Pitfalls of Unsupervised Learning Algorithms”.
 
 ## Artefacts
 
