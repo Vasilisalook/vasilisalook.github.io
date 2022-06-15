@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Understanding AI
-subtitle: The first module of the course
-categories: Education
-tags: [artificial intelligence, intro]
+title: Numerical Analysis
+subtitle: The second module of the course
+categories: Module Summary
+tags: [numerical analysis, data science]
 ---
 
 ## Summary
