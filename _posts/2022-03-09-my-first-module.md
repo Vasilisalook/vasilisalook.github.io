@@ -2,7 +2,7 @@
 layout: post
 title: Understanding AI
 subtitle: The first module of the course
-categories: Module Summary
+categories: Modules
 tags: [artificial intelligence, WEKA, Python, dataset, Markdown]
 ---
 
