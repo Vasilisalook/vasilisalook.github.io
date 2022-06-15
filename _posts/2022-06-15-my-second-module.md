@@ -9,3 +9,5 @@ tags: [numerical analysis, data science, R]
 ## Summary of the Numerical Analysis module
 
 ## Artefacts
+
+## Sources
