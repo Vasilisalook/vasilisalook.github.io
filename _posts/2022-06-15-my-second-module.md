@@ -6,6 +6,6 @@ categories: Modules
 tags: [numerical analysis, data science, R]
 ---
 
-## Summary
+## Summary of the Numerical Analysis module
 
 ## Artefacts
