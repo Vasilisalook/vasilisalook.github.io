@@ -9,6 +9,7 @@ tags: [numerical analysis, data science, R, maths, baye's]
 ## R Data Activities
 
 **subset()** is my favourite function by far - if a table is huge, it allows to choose some segments from data by variables and research them deeply. So, for the dataset "Crime Survey for England and Wales (2013-2014)" I created the first subset for victims of a crime only, and then I used the second level of subsetting, working with victims of 75+ age. 
+
 **plot()** is second handy function, it helps to visualise information. Just a couple of observations: most crimes of that specific group are happened in urban area and victims had been living there more than 20 years (may be there are more chances to be a victim if you are live such a long live and in the same place).
 
 ## Maths Topics
