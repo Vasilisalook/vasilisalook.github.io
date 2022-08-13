@@ -12,4 +12,4 @@ tags: [numerical analysis, data science, R]
 
 ## Sources
 
-Amazing free lectures MIT by Ali Jahanian on [Deep Learning for Art, Aesthetics, and Creativity](https://www.youtube.com/playlist?list=PLCpMvp7ftsnIbNwRnQJbDNRqO6qiN3EyH)
+Amazing free lectures MIT by Ali Jahanian on [Deep Learning for Art, Aesthetics, and Creativity.](https://www.youtube.com/playlist?list=PLCpMvp7ftsnIbNwRnQJbDNRqO6qiN3EyH)
