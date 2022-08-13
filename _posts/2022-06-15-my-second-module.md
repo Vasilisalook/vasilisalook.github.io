@@ -12,5 +12,5 @@ tags: [numerical analysis, data science, R]
 
 ## Sources
 
-Amazing free lectures MIT by Ali Jahanian on [Deep Learning for Art, Aesthetics, and Creativity.](https://www.youtube.com/playlist?list=PLCpMvp7ftsnIbNwRnQJbDNRqO6qiN3EyH)
-[statista.com](www.statista.com) – free infographics on current media and technology affairs for inspiration.
+Amazing free lectures MIT by Ali Jahanian on [Deep Learning for Art, Aesthetics, and Creativity.](https://www.youtube.com/playlist?list=PLCpMvp7ftsnIbNwRnQJbDNRqO6qiN3EyH)<br>
+[Statista](www.statista.com) – free infographics on current media and technology affairs for inspiration.
