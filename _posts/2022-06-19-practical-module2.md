@@ -24,6 +24,7 @@ Good news is that we can create a user function to calculate mode of a data set 
     ux <- unique(Health_Data$age)<br>
     ux[which.max(tabulate(match(Health_Data$age, ux)))]<br>
 }<br>
+
 2.<br>
 > age <- (Health_Data$age)<br>
 > mode <- age[which.max(age)]<br>
