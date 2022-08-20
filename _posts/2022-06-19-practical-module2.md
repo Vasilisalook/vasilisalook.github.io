@@ -23,6 +23,12 @@ getmode <- function(Health_Data$age) {<br>
     ux[which.max(tabulate(match(Health_Data$age, ux)))]<br>
 }
 
+**NA remover**
+
+In case you are unable to return any value other than NA for mean/mode/median, try this:
+
+> mean(HSE$bmival, trim = 0, na.rm = TRUE)
+
 ## Maths Topics
 
 ## Python for Numerical Analysis – NumPy Exercises
