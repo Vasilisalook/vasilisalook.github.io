@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Practical Training for Numerical Analysis
-subtitle: Activities of the second module
+subtitle: Activities for the second module
 categories: Practice
 tags: [numerical analysis, data science, R, maths, baye's]
 ---
