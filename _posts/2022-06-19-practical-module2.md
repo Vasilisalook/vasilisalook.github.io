@@ -17,12 +17,17 @@ Or we can do it at once using logical operator &:
 **About Mode in R**
 
 I was surprised that R does not have a standard in-built function to calculate mode. For example, I can easily get the mean and median for some data, writing > median(Health_data$age) or > mean(Health_data$age), but it is not the same with **mode()**. It tells you only the internal storage mode of the object, not the value that occurs the most in its argument.<br>
-Good news is that we can create a user function to calculate mode of a data set in R:
+Good news is that we can create a user function to calculate mode of a data set in R (two ways):
 
+1.<br>
 > getmode <- function(Health_Data$age) {<br>
     ux <- unique(Health_Data$age)<br>
     ux[which.max(tabulate(match(Health_Data$age, ux)))]<br>
 }
+2.<br>
+> age <- (Health_Data$age)<br>
+> mode <- age[which.max(age)]<br>
+> mode
 
 **NA remover**
 
