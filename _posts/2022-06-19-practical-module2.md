@@ -36,6 +36,10 @@ In case you are unable to return any value other than NA for mean/mode/median, t
 
 > mean(HSE$bmival, trim = 0, na.rm = TRUE)
 
+or remove NA:
+
+> BMI <- na.omit(HSE$bmival)
+
 ## Maths Topics
 
 ## Python for Numerical Analysis – NumPy Exercises
