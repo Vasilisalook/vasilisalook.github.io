@@ -51,6 +51,6 @@ AI Solution Implementation:
 
 Essay AI and Apps:
 
-A few recommendations for “OKEY Bank” on effective practical AI implementations.
+[A few recommendations for “OKEY Bank” on effective practical AI implementations.](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/!Essay%20AI%20and%20Apps.docx)
 
 
