@@ -47,7 +47,7 @@ The [Data Mining with WEKA](https://youtu.be/LcHw2ph6bss) video course.
 
 AI Solution Implementation:
 
-An example of ML Algorithms for Bank Credit Scoring using WEKA.
+[An example of ML Algorithms for Bank Credit Scoring using WEKA.](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/!AI%20Solution%20Implementation.docx)
 
 Essay AI and Apps:
 
