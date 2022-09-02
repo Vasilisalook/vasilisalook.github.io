@@ -42,3 +42,9 @@ This is a [good guide](https://www.markdownguide.org/basic-syntax/) to learn abo
 [Pandoc](https://pandoc.org/index.html?dm_t=0,0,0,0,0) – a universal document converter.
 
 The [Data Mining with WEKA](https://youtu.be/LcHw2ph6bss) video course.
+
+## Assignments
+
+AI Solution Implementation.
+
+Essay AI and Apps.
