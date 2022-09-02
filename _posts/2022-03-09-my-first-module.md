@@ -45,12 +45,14 @@ The [Data Mining with WEKA](https://youtu.be/LcHw2ph6bss) video course.
 
 ## Assignments
 
+
+Individual Essay: AI and its Applications:
+
+[A few recommendations for “OKEY Bank” on effective practical AI implementations.](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/!Essay%20AI%20and%20Apps.docx)
+
 AI Solution Implementation:
 
 [An example of ML Algorithms for Bank Credit Scoring using WEKA.](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/!AI%20Solution%20Implementation.docx)
 
-Essay AI and Apps:
-
-[A few recommendations for “OKEY Bank” on effective practical AI implementations.](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/!Essay%20AI%20and%20Apps.docx)
 
 
