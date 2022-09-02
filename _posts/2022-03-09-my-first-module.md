@@ -52,7 +52,7 @@ Individual Essay: AI and its Applications:
 
 AI Solution Implementation:
 
-[An example of ML Algorithms for Bank Credit Scoring using WEKA.](https://github.com/Vasilisalook/vasilisalook.github.io#:~:text=!AI%20Solution%20Implementation.docx)
+[An example of ML Algorithms for Bank Credit Scoring using WEKA.](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/!AI%20Solution%20Implementation.docx)
 
 
 
