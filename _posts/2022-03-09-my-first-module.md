@@ -45,6 +45,12 @@ The [Data Mining with WEKA](https://youtu.be/LcHw2ph6bss) video course.
 
 ## Assignments
 
-AI Solution Implementation.
+AI Solution Implementation:
 
-Essay AI and Apps.
+An example of ML Algorithms for Bank Credit Scoring using WEKA.
+
+Essay AI and Apps:
+
+A few recommendations for “OKEY Bank” on effective practical AI implementations.
+
+
