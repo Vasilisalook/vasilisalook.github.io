@@ -3,7 +3,7 @@ layout: post
 title: Numerical Analysis
 subtitle: The second module of the course
 categories: Modules
-tags: [numerical analysis, data science, R]
+tags: [numerical analysis, data science, R, statistics]
 ---
 
 ## Summary of the Numerical Analysis module
