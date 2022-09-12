@@ -9,7 +9,7 @@ tags: [numerical analysis, data science, R]
 ## Summary of the Numerical Analysis module
 
 This module has opened up the RStudio for me and in particular the statistics field in the R world.
-Before University of Essex I have read just one related book – "Naked Statistics" by Charles Wheelan,
+Before the University of Essex I have read just one related book – "Naked Statistics" by Charles Wheelan,
 which helped me to absorb the basic ideas and then apply them to the practice.
 My favourite e-book of the course is "Practical Statistics for Data Scientists. 50 Essential Concepts Using R and Python"
 by Peter Bruce, because it contains a lot of examples. The crab on the cover is mesmerising.<br>
