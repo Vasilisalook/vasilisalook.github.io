@@ -19,4 +19,5 @@ Amazing free lectures MIT by Ali Jahanian on [Deep Learning for Art, Aesthetics,
 Statistical Analysis Presentation based on Health Survey for England 2011:<br>
 [The Presentation in Power Point](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/Assignment%20Statistics%20with%20pics.pptx)<br>
 [Audio for the Presentation](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/Audio%20for%20the%20Presentation.mp3)<br>
-[Text of Statistical Analysis Presentation](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/Text%20of%20Statistical%20Analysis%20Presentation.docx)
+[Text of Statistical Analysis Presentation](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/Text%20of%20Statistical%20Analysis%20Presentation.docx)<br>
+Individual Reflection on Numeric Analysis Module: A Taste of Pepper![image](https://user-images.githubusercontent.com/93581837/189604920-25231dc2-f687-4a55-9fa9-ad3a5f9253cc.png)
