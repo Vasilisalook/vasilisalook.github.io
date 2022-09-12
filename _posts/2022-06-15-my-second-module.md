@@ -13,7 +13,7 @@ Before the University of Essex I have read just one related book – "Naked Stat
 which helped me to absorb the basic ideas and then apply them to the practice.
 My favourite e-book of the course is "Practical Statistics for Data Scientists. 50 Essential Concepts Using R and Python"
 by Peter Bruce, because it contains a lot of examples. The crab on the cover is mesmerising.<br>
-
+  ![crab](/assets/images/banners/crab.jpg)<br>
 For more details and insights of this module you are welcome to read my [reflective essay](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/Individual%20Reflection.docx).
 
 ## Sources
