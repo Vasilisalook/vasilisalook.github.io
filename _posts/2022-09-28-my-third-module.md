@@ -15,4 +15,4 @@ I have put together [a Midjourney based simple guide](https://github.com/Vasilis
 
 ## Airbnb business analysis
 
-![Cover for report](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/assets/images/banners/report.png)
+![Cover](/assets/images/banners/report.png)
