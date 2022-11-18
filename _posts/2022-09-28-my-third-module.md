@@ -8,6 +8,8 @@ tags: [machine learning, R, deep learning, AI, Midjourney]
 
 ## Summary of the Machine Learning module
 
+[PartnerNN](https://github.com/Vasilisalook/ML/blob/main/PartnerNN.ipynb)
+
 ## Guide for poets
 
 I have put together [a Midjourney based simple guide](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/AI-Illustration%20for%20Poets.pdf) to help poets become painters with AI even if they have never heard about Machine Learning. Because the first step is hard one. <br>
@@ -17,4 +19,4 @@ I have put together [a Midjourney based simple guide](https://github.com/Vasilis
 
 ![Cover](/assets/images/banners/report.png)
 
-[PartnerNN](https://github.com/Vasilisalook/ML/blob/main/PartnerNN.ipynb)
+
