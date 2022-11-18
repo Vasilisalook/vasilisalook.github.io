@@ -17,4 +17,4 @@ I have put together [a Midjourney based simple guide](https://github.com/Vasilis
 
 ![Cover](/assets/images/banners/report.png)
 
-[PartnerNN](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/PartnerNN.ipynb)
+[PartnerNN](https://github.com/Vasilisalook/ML/blob/main/PartnerNN.ipynb)
