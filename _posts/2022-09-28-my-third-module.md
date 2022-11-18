@@ -16,3 +16,5 @@ I have put together [a Midjourney based simple guide](https://github.com/Vasilis
 ## Airbnb business analysis
 
 ![Cover](/assets/images/banners/report.png)
+
+http://localhost:8888/notebooks/PartnerNN2.ipynb
