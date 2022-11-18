@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Machine Learning
-subtitle: The second module of the course
+subtitle: The third module of the course
 categories: Modules
 tags: [machine learning, R, deep learning, AI, Midjourney]
 ---
