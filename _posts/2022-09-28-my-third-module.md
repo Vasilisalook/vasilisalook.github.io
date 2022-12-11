@@ -26,16 +26,20 @@ Basic insight for me is related to the concept of correlation. I have learnt som
 
 I have heard about customers’ segmentation in the marketing course at my first university. Now I have a chance to discover it more practically. K-Mean clustering is very popular, but the main problem is that the number of clusters should be set by humans. This number may be evaluated by the “elbow method”, however for me it is not obvious in the picture of “elbow” what is an optimal number of clusters. Look at the [picture](https://github.com/Vasilisalook/ML/blob/main/ElbowMethod.jpg): even in the famous Iris dataset it is not clear if there are 2 or 3 would be better. That’s why it would be nice to use the silhouette method as well to be sure.
 
+## Unit 6. Team project #1
+
+![Cover](/assets/images/banners/report.png)
+
+[Airbnb business analysis using Data Science](https://github.com/Vasilisalook/ML/blob/main/GROUP1_Team_AirBnB_Business_Analysis.docx) was the first team-project in the MLmodule. Through the team discussions I evaluate my ability to write code in Python for such a complex model as predicting competitive prices for rooms based on location. To explain in simple terms what we have done and what it means for business was even harder though. Rolling the Airbnb data of the year 2019 we found a large gap between NYC neighborhoods’ popularity for renting, the average price is $65/night, and realized the Bronx was a leader in proposing shared rooms.
+
 
 [PartnerNN](https://github.com/Vasilisalook/ML/blob/main/PartnerNN.ipynb)
 
-## Guide for poets
+## Additional project: Guide for poets
 
 I have put together [a Midjourney based simple guide](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/AI-Illustration%20for%20Poets.pdf) to help poets become painters with AI even if they have never heard about Machine Learning. Because the first step is hard one. <br>
  ![AIGuide](/assets/images/banners/AIGuide.png)<br>
 
-## Airbnb business analysis
 
-![Cover](/assets/images/banners/report.png)
 
 
