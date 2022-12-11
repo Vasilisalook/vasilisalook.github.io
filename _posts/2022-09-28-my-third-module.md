@@ -3,7 +3,7 @@ layout: post
 title: Machine Learning
 subtitle: The third module of the course
 categories: Modules
-tags: [machine learning, R, deep learning, AI, Midjourney]
+tags: [machine learning, ML, R, deep learning, AI, Midjourney, K-Mean, Elbow Method, Heat Map, Correlation, Kaggle ]
 ---
 
 ## Summary of the Machine Learning module
@@ -30,7 +30,7 @@ I have heard about customers’ segmentation in the marketing course at my first
 
 ![Cover](/assets/images/banners/report.png)
 
-[Airbnb business analysis using Data Science](https://github.com/Vasilisalook/ML/blob/main/GROUP1_Team_AirBnB_Business_Analysis.docx) was the first team-project in the MLmodule. Through the team discussions I evaluate my ability to write code in Python for such a complex model as predicting competitive prices for rooms based on location. To explain in simple terms what we have done and what it means for business was even harder though. Rolling the Airbnb data of the year 2019 we found a large gap between NYC neighborhoods’ popularity for renting, the average price is $65/night, and realized the Bronx was a leader in proposing shared rooms.
+[Airbnb business analysis using Data Science](https://github.com/Vasilisalook/ML/blob/main/GROUP1_Team_AirBnB_Business_Analysis.docx) was the first team-project in the ML module. Through the team discussions I evaluate my ability to write code in Python for such a complex model as predicting competitive prices for rooms based on location. To explain in simple terms what we have done and what it means for business was even harder though. Rolling the Airbnb data of the year 2019 we found a large gap between NYC neighborhoods’ popularity for renting, the average price is $65/night, and realized the Bronx was a leader in proposing shared rooms.
 
 
 [PartnerNN](https://github.com/Vasilisalook/ML/blob/main/PartnerNN.ipynb)
