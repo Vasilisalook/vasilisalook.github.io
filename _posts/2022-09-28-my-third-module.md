@@ -22,6 +22,10 @@ After diving into the tutorial on Exploratory Data Analysis I can better underst
 
 Basic insight for me is related to the concept of correlation. I have learnt some shock content for a journalist: correlation does not mean causation, although they might exist as parallel lines. For example, the level of health and wealth may almost stick together in some countries, but it does not strictly mean that a healthy life leads to a wealthy life and vice-versa, it needs more research. Another understanding relates to the difference between correlation and regression. Within correlation we can mutually interchange x and y and get the same plot, but if we interchange the x and y in regression – the result will be different.
 
+## Unit 5. The silhouette of elbow
+
+I have heard about customers’ segmentation in the marketing course at my first university. Now I have a chance to discover it more practically. K-Mean clustering is very popular, but the main problem is that the number of clusters should be set by humans. This number may be evaluated by the “elbow method”, however for me it is not obvious in the picture of “elbow” what is an optimal number of clusters. Look at the [picture](https://github.com/Vasilisalook/ML/blob/main/ElbowMethod.jpg): even in the famous Iris dataset it is not clear if there are 2 or 3 would be better. That’s why it would be nice to use the silhouette method as well to be sure.
+
 
 [PartnerNN](https://github.com/Vasilisalook/ML/blob/main/PartnerNN.ipynb)
 
