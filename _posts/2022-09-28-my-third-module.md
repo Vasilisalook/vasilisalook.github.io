@@ -50,7 +50,7 @@ Through fixing “dying kernel” on my Jupyter Notebook I managed to have 50 ep
 
 ![Nithya Kanakavelu](/assets/images/banners/Nithya.png) ***Nithya Kanakavelu:*** *"Vasilisa played an active role in the team on both the projects. She made remarkable contributions to the team projects and provided valuable inputs throughout. She contributed towards exploratory data analysis, coding and more for the initial project and in CNN modelling".*
 
-##Units 11-12. AI gap
+## Units 11-12. AI gap
 
 The cover for my e-portfolio and covers for the both team projects I created with Midjourney, an AI program for generating images from textual descriptions (as well as). Apart from some concerns about the fate of all artists I noticed that robots are very bad in spelling. Midjourney chews and doubles letters, it is rarely able to draw words correctly at once, in spite of being fed with absolutely correct letters order ([example is here](https://github.com/Vasilisalook/ML/blob/main/MJSpelling.jpg)). Even for one short word a user should re-roll a prompt a couple of times until they get the result with correct spelling. I have an idea to help artistic AI with spell checking, finding ways to improve the algorithm. Maybe it will be the basis of my graduate thesis, who knows?
 
