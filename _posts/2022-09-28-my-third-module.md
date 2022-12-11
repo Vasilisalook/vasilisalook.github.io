@@ -44,7 +44,7 @@ One of the main challenges for me was to catch the purpose of gradient descent. 
 
 ## Units 9-10. Team project #2
 
-Through fixing “dying kernel” on my Jupyter Notebook I managed to have 50 epochs for the CIFAR-10 CNN for our second team project with TensorFlow library. For training I used a few examples on [Kaggle website](https://www.kaggle.com/code/vivek468/very-basic-cifar-10-data-cnn/notebook). My Mac was warm and noisy, but he made it. The model of CNN given in Unit 9 as an example was very useful to create our [Summative Assessment about Neural Networks](https://github.com/Vasilisalook/ML#:~:text=Summative%20Assessment%2DNeuralNetworks.pptx![image](https://user-images.githubusercontent.com/93581837/206931909-1bff49b6-ec3c-4ec5-9e61-da4e200443d2.png)
+Through fixing “dying kernel” on my Jupyter Notebook I managed to have 50 epochs for the CIFAR-10 CNN for our second team project with TensorFlow library. For training I used a few examples on [Kaggle website](https://www.kaggle.com/code/vivek468/very-basic-cifar-10-data-cnn/notebook). My Mac was warm and noisy, but he made it. The model of CNN given in Unit 9 as an example was very useful to create our [Summative Assessment about Neural Networks](https://github.com/Vasilisalook/ML/blob/main/Summative%20Assessment-NeuralNetworks.pptx)
 ) by Group-1. Transcript of the presentation is [here](https://github.com/Vasilisalook/ML/blob/main/TranscriptCNNTeam.docx![image](https://user-images.githubusercontent.com/93581837/206931934-b3cfe0cc-9734-464c-aac7-a123af3a3c82.png)
 ). Three of us as a team played with the quality and quantity of the kernels, techniques of dropout and early stopping in order to improve the accuracy of the model. According to the test, we were able to improve it from 68% to 71%.
 
