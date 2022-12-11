@@ -8,7 +8,7 @@ tags: [machine learning, ML, midjourney, k-mean, elbow method, heat map, correla
 
 ## Summary of the Machine Learning module
 
-On this page I collected notes on my humble progress during the ML module. For fast checking artifacts you are welcome to [visit this Github repository](https://github.com/Vasilisalook/ML).
+On this page I collected notes on my humble progress during the ML module. For fast checking artifacts out you are welcome to [visit this Github repository](https://github.com/Vasilisalook/ML).
 
 ## Unit 1. Start with mistake
 
