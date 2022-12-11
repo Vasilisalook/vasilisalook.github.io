@@ -8,7 +8,7 @@ tags: [machine learning, R, deep learning, AI, Midjourney]
 
 ## Summary of the Machine Learning module
 
-On this page I collected notes about my progress during the Machine Learning module.
+On this page I collected notes about my progress during the ML module.
 
 ## Unit 1. Start with mistake
 
