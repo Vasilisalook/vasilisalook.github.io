@@ -36,7 +36,7 @@ I have heard about customers’ segmentation in the marketing course at my first
 
 ## Unit 7. Money, Love, Adventure
 
-To make the basic idea of Artificial Neural Network clear for myself I created the most primitive ANN – PartnerNN ([schematic illustration of the idea](https://github.com/Vasilisalook/ML/blob/main/PartnerNN.jpg)). The aim was to make it so simple to be able to calculate all the inputs, weights, inner layer nodes and activation functions using just a piece of paper and a pen. PartnerNN is trained to choose or ignore a partner with only three inputs: Money, Adventure and Love (True or False for each of them). Please, do not take it seriously, it was created just for main understanding of the backpropagation learning concept. [The code is here.](https://github.com/Vasilisalook/ML/blob/main/PartnerNN.ipynb)
+To make the basic idea of Artificial Neural Network clear for myself I created the most primitive ANN – PartnerNN  The aim was to make it so simple to be able to calculate all the inputs, weights, inner layer nodes and activation functions using just a piece of paper and a pen. PartnerNN is trained to choose or ignore a partner with only three inputs: Money, Adventure and Love (True or False for each of them). Please, do not take it seriously, it was created just for main understanding of the backpropagation learning concept. [The code is here.](https://github.com/Vasilisalook/ML/blob/main/PartnerNN.ipynb)
 
 ## Additional project: Guide for poets
 
