@@ -20,7 +20,7 @@ After diving into the tutorial on Exploratory Data Analysis I can better underst
 
 ## Units 3-4. Сorrelation ≠ Сausation
 
-Basic insight for me is related to the concept of correlation. I have learnt some shock content for a journalist: correlation does not mean causation, although they might exist as parallel lines. For example, the level of health and wealth may almost stick together in some countries, but it does not strictly mean that a healthy life leads to a wealthy life and vice-versa, it needs more research. Another understanding relates to the difference between correlation and regression. Within correlation we can mutually interchange x and y and get the same plot, but if we interchange the x and y in regression – the result will be different.![image](https://user-images.githubusercontent.com/93581837/206926469-6f5aff1d-1145-49f3-b14c-0e8460312c69.png)
+Basic insight for me is related to the concept of correlation. I have learnt some shock content for a journalist: correlation does not mean causation, although they might exist as parallel lines. For example, the level of health and wealth may almost stick together in some countries, but it does not strictly mean that a healthy life leads to a wealthy life and vice-versa, it needs more research. Another understanding relates to the difference between correlation and regression. Within correlation we can mutually interchange x and y and get the same plot, but if we interchange the x and y in regression – the result will be different.
 
 
 [PartnerNN](https://github.com/Vasilisalook/ML/blob/main/PartnerNN.ipynb)
