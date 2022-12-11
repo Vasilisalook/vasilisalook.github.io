@@ -8,6 +8,9 @@ tags: [machine learning, R, deep learning, AI, Midjourney]
 
 ## Summary of the Machine Learning module
 
+On this page I collected notes about my progress during the Machine Learning module.![image](https://user-images.githubusercontent.com/93581837/206925663-1431ae9b-91d2-4b5a-a71d-bdcab3b48f9f.png)
+
+
 [PartnerNN](https://github.com/Vasilisalook/ML/blob/main/PartnerNN.ipynb)
 
 ## Guide for poets
