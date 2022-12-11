@@ -56,7 +56,7 @@ The cover for my e-portfolio and covers for the both team projects I created wit
 
 ## Additional project: Guide for poets
 
-I have put together [a Midjourney based simple guide](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/AI-Illustration%20for%20Poets.pdf) to help poets become painters with AI even if they have never heard about Machine Learning. Because the first step is hard one. <br>
+I have put together [a Midjourney based simple guide](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/AI-Illustration%20for%20Poets.pdf) to help poets become painters with AI even if they have never heard about Machine Learning. I would be happy if it seemed useful for you. <br>
  ![AIGuide](/assets/images/banners/AIGuide.png)<br>
 
 
