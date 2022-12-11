@@ -55,10 +55,10 @@ Through fixing “dying kernel” on my Jupyter Notebook I managed to have 50 ep
 The cover for my e-portfolio and covers for the both team projects I created with Midjourney, an AI program for generating images from textual descriptions (as well as). Apart from some concerns about the fate of all artists I noticed that robots are very bad in spelling. Midjourney chews and doubles letters, it is rarely able to draw words correctly at once, in spite of being fed with absolutely correct letters order ([example is here](https://github.com/Vasilisalook/ML/blob/main/MJSpelling.jpg)). Even for one short word a user should re-roll a prompt a couple of times until they get the result with correct spelling. I have an idea to help artistic AI with spell checking, finding ways to improve the algorithm. Maybe it will be the basis of my graduate thesis, who knows?
 
 [References](https://github.com/Vasilisalook/ML/blob/main/ReferencesML.docx)
-
 ## Additional project: Guide for poets
 
 I have put together [a Midjourney based simple guide](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/AI-Illustration%20for%20Poets.pdf) to help poets become painters with AI even if they have never heard about Machine Learning. I would be happy if it seemed useful for you. <br>
+<br>
  ![AIGuide](/assets/images/banners/AIGuide.png)<br>
 
 
