@@ -3,7 +3,7 @@ layout: post
 title: Machine Learning
 subtitle: The third module of the course
 categories: Modules
-tags: [machine learning, ML, Midjourney, K-Mean, Elbow Method, Heat Map, Correlation, Kaggle ]
+tags: [machine learning, ML, Midjourney, K-Mean, Elbow Method, Heat Map, Correlation, Kaggle, Backpropagation ]
 ---
 
 ## Summary of the Machine Learning module
