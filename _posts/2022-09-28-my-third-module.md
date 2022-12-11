@@ -3,7 +3,7 @@ layout: post
 title: Machine Learning
 subtitle: The third module of the course
 categories: Modules
-tags: [machine learning, ML, Midjourney, K-Mean, Elbow Method, Heat Map, Correlation, Kaggle, Backpropagation ]
+tags: [machine learning, ML, Midjourney, K-Mean, Elbow Method, Heat Map, Correlation, Kaggle, Backpropagation, Gradient Descent ]
 ---
 
 ## Summary of the Machine Learning module
@@ -41,7 +41,6 @@ To make the basic idea of Artificial Neural Network clear for myself I created t
 ## Unit 8. Gradient understanding
 
 One of the main challenges for me was to catch the purpose of gradient descent. I understand the value of the cost function to get the best prediction for any linear model, for example, house price based on its square in some area. At first, I thought that counting the sum of squared errors is enough to fix wrong predictions, but then I realized that we need to optimize the cost function to the minimum. And that is why we use gradient descent. Everything became clear, when I had [connected two graphs in my mind](https://github.com/Vasilisalook/ML/blob/main/Gradient%20Descent.jpg) – one related to the predicted-actual lines, and another – to the sum of residuals and intercept the y-axes.
-
 
 
 ## Additional project: Guide for poets
