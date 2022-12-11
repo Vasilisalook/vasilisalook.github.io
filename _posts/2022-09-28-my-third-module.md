@@ -18,7 +18,9 @@ The ML module starts with the collaborative discussion on the 4th Industrial Rev
 
 After diving into the tutorial on Exploratory Data Analysis I can better understand the importance of Heat Maps. At first glance some kinds of correlations look very obvious, for instance, in the case with House Price Kaggle Competition ‘GrLivArea’, ‘OverallQual’, are strongly connected with ‘SalePrice’. It would be surprising if they are not. However, the program is able to count and compare the level of correlations, and it is fantastic. For ‘YearBuilt’ we may see a relatively weak correlation with 'SalePrice', and it is something new for me. It leads to more explorations. You are welcome to find my attempts in the end of the [code here.](https://github.com/Vasilisalook/ML/blob/main/Unit2MLHeatMaps.ipynb)
 
-## Units 3-4. Shock content for a journalist: Сorrelation ≠ Сausation
+## Units 3-4. Сorrelation ≠ Сausation
+
+Basic insight for me is related to the concept of correlation. I have learnt some shock content for a journalist: correlation does not mean causation, although they might exist as parallel lines. For example, the level of health and wealth may almost stick together in some countries, but it does not strictly mean that a healthy life leads to a wealthy life and vice-versa, it needs more research. Another understanding relates to the difference between correlation and regression. Within correlation we can mutually interchange x and y and get the same plot, but if we interchange the x and y in regression – the result will be different.![image](https://user-images.githubusercontent.com/93581837/206926469-6f5aff1d-1145-49f3-b14c-0e8460312c69.png)
 
 
 [PartnerNN](https://github.com/Vasilisalook/ML/blob/main/PartnerNN.ipynb)
