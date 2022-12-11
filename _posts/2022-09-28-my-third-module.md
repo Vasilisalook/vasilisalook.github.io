@@ -42,6 +42,12 @@ To make the basic idea of Artificial Neural Network clear for myself I created t
 
 One of the main challenges for me was to catch the purpose of gradient descent. I understand the value of the cost function to get the best prediction for any linear model, for example, house price based on its square in some area. At first, I thought that counting the sum of squared errors is enough to fix wrong predictions, but then I realized that we need to optimize the cost function to the minimum. And that is why we use gradient descent. Everything became clear, when I had [connected two graphs in my mind](https://github.com/Vasilisalook/ML/blob/main/Gradient%20Descent.jpg) – one related to the predicted-actual lines, and another – to the sum of residuals and intercept the y-axes.
 
+## Units 9-10. Team project #2
+
+Through fixing “dying kernel” on my Jupyter Notebook I managed to have 50 epochs for the CIFAR-10 CNN for our second team project with TensorFlow library. For training I used a few examples on [Kaggle website](https://www.kaggle.com/code/vivek468/very-basic-cifar-10-data-cnn/notebook). My Mac was warm and noisy, but he made it. The model of CNN given in Unit 9 as an example was very useful to create our [Summative Assessment about Neural Networks](https://github.com/Vasilisalook/ML#:~:text=Summative%20Assessment%2DNeuralNetworks.pptx![image](https://user-images.githubusercontent.com/93581837/206931909-1bff49b6-ec3c-4ec5-9e61-da4e200443d2.png)
+) by Group-1. Transcript of the presentation is [here](https://github.com/Vasilisalook/ML/blob/main/TranscriptCNNTeam.docx![image](https://user-images.githubusercontent.com/93581837/206931934-b3cfe0cc-9734-464c-aac7-a123af3a3c82.png)
+). Three of us as a team played with the quality and quantity of the kernels, techniques of dropout and early stopping in order to improve the accuracy of the model. According to the test, we were able to improve it from 68% to 71%.
+
 
 ## Additional project: Guide for poets
 
