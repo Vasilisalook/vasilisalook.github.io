@@ -48,7 +48,7 @@ Through fixing “dying kernel” on my Jupyter Notebook I managed to have 50 ep
 ) by Group-1. You are welcome to find transcript of the presentation and the code [here](https://github.com/Vasilisalook/ML)
 ). Three of us as a team played with the quality and quantity of the kernels, techniques of dropout and early stopping in order to improve the accuracy of the model. According to the test, we were able to improve it from 68% to 71%.
 
-![Nithya Kanakavelu](/assets/images/banners/Nithya.png) ***Nithya Kanakavelu:*** *"Vasilisa played an active role in the team on both the projects. She made remarkable contributions to the team projects and provided valuable inputs throughout. She contributed towards exploratory data analysis, coding and more for the initial project and in CNN modelling".*
+![Nithya Kanakavelu](/assets/images/banners/Nithya.png) ***Nithya Kanakavelu, team member:*** *"Vasilisa played an active role in the team on both the projects. She made remarkable contributions to the team projects and provided valuable inputs throughout. She contributed towards exploratory data analysis, coding and more for the initial project and in CNN modelling".*
 
 ## Units 11-12. AI gap
 
