@@ -16,7 +16,7 @@ The ML module starts with the collaborative discussion on the 4th Industrial Rev
 
 ## Unit 2. Shine like Heat Map
 
-After diving into the tutorial on Exploratory Data Analysis I can better understand the importance of Heat Maps. At first glance some kinds of correlations look very obvious, for instance, in the case with House Price Kaggle Competition ‘GrLivArea’, ‘OverallQual’, are strongly connected with ‘SalePrice’. It would be surprising if they are not. However, the program is able to count and compare the level of correlations, and it is fantastic. For ‘YearBuilt’ we may see a relatively weak correlation with 'SalePrice', and it is something new for me. It leads to more explorations. You are welcome to find my attempts in the end of the [code here](https://github.com/Vasilisalook/ML/blob/main/Unit2MLHeatMaps.ipynb)
+After diving into the tutorial on Exploratory Data Analysis I can better understand the importance of Heat Maps. At first glance some kinds of correlations look very obvious, for instance, in the case with House Price Kaggle Competition ‘GrLivArea’, ‘OverallQual’, are strongly connected with ‘SalePrice’. It would be surprising if they are not. However, the program is able to count and compare the level of correlations, and it is fantastic. For ‘YearBuilt’ we may see a relatively weak correlation with 'SalePrice', and it is something new for me. It leads to more explorations. You are welcome to find my attempts in the end of the [code here.](https://github.com/Vasilisalook/ML/blob/main/Unit2MLHeatMaps.ipynb)
 
 ## Units 3-4. Shock content for a journalist: Сorrelation ≠ Сausation
 
