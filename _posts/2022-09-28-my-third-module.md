@@ -38,6 +38,12 @@ I have heard about customers’ segmentation in the marketing course at my first
 
 To make the basic idea of Artificial Neural Network clear for myself I created the most primitive ANN – PartnerNN ([schematic illustration of the idea](https://github.com/Vasilisalook/ML/blob/main/PartnerNN.jpg)). The aim was to make it so simple to be able to calculate all the inputs, weights, inner layer nodes and activation functions using just a piece of paper and a pen. PartnerNN is trained to choose or ignore a partner with combination of three inputs he/she/they promise for your shared life: Money, Adventure, Love (True or False for each of them). Please, do not take it seriously, it was created just for main understanding of the backpropagation learning concept. [The code is here.](https://github.com/Vasilisalook/ML/blob/main/PartnerNN.ipynb)
 
+## Unit 8. Gradient understanding
+
+One of the main challenges for me was to catch the purpose of gradient descent. I understand the value of the cost function to get the best prediction for any linear model, for example, house price based on its square in some area. At first, I thought that counting the sum of squared errors is enough to fix wrong predictions, but then I realized that we need to optimize the cost function to the minimum. And that is why we use gradient descent. Everything became clear, when I had [connected two graphs in my mind](https://github.com/Vasilisalook/ML/blob/main/Gradient%20Descent.jpg) – one related to the predicted-actual lines, and another – to the sum of residuals and intercept the y-axes.
+
+
+
 ## Additional project: Guide for poets
 
 I have put together [a Midjourney based simple guide](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/AI-Illustration%20for%20Poets.pdf) to help poets become painters with AI even if they have never heard about Machine Learning. Because the first step is hard one. <br>
