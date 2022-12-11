@@ -34,8 +34,9 @@ I have heard about customers’ segmentation in the marketing course at my first
 
 ![Sandip Biswas](/assets/images/banners/Sandip.png) ***Sandip Biswas, team member:*** *"Vasilisa has led the teamwork by organising the flow of the projects and how it required to be introduced and taken to a conclusion with supporting artefacts. Vasilisa provided conclusive inferences for the Airbnb project so that each step of data analysis could be used towards the team objective making sure the business case is met. Vasilisa played a vital role in summing up the group discussions by providing explanations with a diagrammatic approach".*
 
+## Unit 7. Money, Love, Adventure
 
-[PartnerNN](https://github.com/Vasilisalook/ML/blob/main/PartnerNN.ipynb)
+To make the basic idea of Artificial Neural Network clear for myself I created the most primitive ANN – PartnerNN (thanks to Kovalevskyi Academy for the direction of the idea). The aim was to make it so simple to be able to calculate all the inputs, weights, inner layer nodes and activation functions using just a piece of paper and a pen. PartnerNN is trained to choose or ignore a partner with only three inputs: Money, Adventure and Love (True or False for each of them). Please, do not take it seriously, it was created just for main understanding of the backpropagation learning concept. [The code is here.](https://github.com/Vasilisalook/ML/blob/main/PartnerNN.ipynb)
 
 ## Additional project: Guide for poets
 
