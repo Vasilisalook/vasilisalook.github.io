@@ -32,7 +32,7 @@ I have heard about customers’ segmentation in the marketing course at my first
 
 [Airbnb business analysis using Data Science](https://github.com/Vasilisalook/ML/blob/main/GROUP1_Team_AirBnB_Business_Analysis.docx) was the first team-project in the ML module. Through the team discussions I improved my ability to write code in Python for such a complex model as predicting competitive prices for rooms based on location. To explain in simple terms what we have done and what it means for business was even harder though. Rolling the Airbnb data of the year 2019 we found a large gap between NYC neighborhoods’ popularity for renting, the average price is $65/night, and realized the Bronx was a leader in proposing shared rooms.
 
-***Sandip Biswas, team member:*** *"Vasilisa has led the teamwork by organising the flow of the projects and how it required to be introduced and taken to a conclusion with supporting artefacts. Vasilisa provided conclusive inferences for the Airbnb project so that each step of data analysis could be used towards the team objective making sure the business case is met. Vasilisa played a vital role in summing up the group discussions by providing explanations with a diagrammatic approach".*
+![Sandip Biswas](/assets/images/banners/SandipS.png)***Sandip Biswas, team member:*** *"Vasilisa has led the teamwork by organising the flow of the projects and how it required to be introduced and taken to a conclusion with supporting artefacts. Vasilisa provided conclusive inferences for the Airbnb project so that each step of data analysis could be used towards the team objective making sure the business case is met. Vasilisa played a vital role in summing up the group discussions by providing explanations with a diagrammatic approach".*
 
 ## Unit 7. Money, Love, Adventure
 
@@ -47,7 +47,7 @@ One of the main challenges for me was to catch the purpose of gradient descent. 
 Through fixing “dying kernel” on my Jupyter Notebook I managed to have 50 epochs for the CIFAR-10 CNN for our second team project with TensorFlow library. For training I used a few examples on [Kaggle website](https://www.kaggle.com/code/vivek468/very-basic-cifar-10-data-cnn/notebook). My Mac was warm and noisy, but he made it. The model of CNN given in Unit 9 as an example was very useful to create our [Summative Assessment about Neural Networks](https://github.com/Vasilisalook/ML#:~:text=Summative%20Assessment%2DNeuralNetworks.pptx)
  by Group-1. You are welcome to find transcript of the presentation and the code [here](https://github.com/Vasilisalook/ML). Three of us as a team played with the quality and quantity of the kernels, techniques of dropout and early stopping in order to improve the accuracy of the model. According to the test, we were able to improve it from 68% to 71%.
 
- ***Nithya Kanakavelu, team member:*** *"Vasilisa played an active role in the team on both the projects. She made remarkable contributions to the team projects and provided valuable inputs throughout. She contributed towards exploratory data analysis, coding and more for the initial project and in CNN modelling".*
+![Nithya Kanakavelu](/assets/images/banners/NithyaS.png)***Nithya Kanakavelu, team member:*** *"Vasilisa played an active role in the team on both the projects. She made remarkable contributions to the team projects and provided valuable inputs throughout. She contributed towards exploratory data analysis, coding and more for the initial project and in CNN modelling".*
 
 ## Units 11-12. AI gap
 
