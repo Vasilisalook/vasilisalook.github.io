@@ -3,8 +3,10 @@ layout: post
 title: Data Visualisation
 subtitle: Additional Activity
 categories: Practice
-tags: [numerical analysis, data, data science, data visualisation, R, scatterplot]
+tags: [numerical analysis, information design, data, data science, data visualisation, R, scatterplot]
 ---
+
+## CO2 Emissions - my first Information Design project
 
 I took a Data Visualisation course by an information designer Frederica Fragapane to be able to represent any information more tidy and confident. <br>
 My final project of the course represents the CO2 emissions by the most active 20 countries with a population of 5+ mln people during 19 years (2000-2019, with more details for 2019 year specifically). <br>
