@@ -6,7 +6,7 @@ categories: Practice
 tags: [numerical analysis, information design, data, data science, data visualisation, R, scatterplot]
 ---
 
-An Information Design project
+##An Information Design project
 
 I took a Data Visualisation course by an information designer Frederica Fragapane  <br>
 to be able to represent any information more tidy and confident. <br>
