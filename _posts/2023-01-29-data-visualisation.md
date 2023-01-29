@@ -8,8 +8,10 @@ tags: [numerical analysis, information design, data, data science, data visualis
 
 ## CO2 Emissions - my first Information Design project
 
-I took a Data Visualisation course by an information designer Frederica Fragapane to be able to represent any information more tidy and confident. <br>
-My final project of the course represents the CO2 emissions by the most active 20 countries with a population of 5+ mln people during 19 years (2000-2019, with more details for 2019 year specifically). <br>
+I took a Data Visualisation course by an information designer Frederica Fragapane  <br>
+to be able to represent any information more tidy and confident. <br>
+My final project of the course represents the CO2 emissions by the most active 20 countries  <br>
+with a population of 5+ mln people during 19 years (2000-2019, with more details for 2019 year specifically). <br>
  ![Emissions](/assets/images/banners/Emissions_small.jpg)<br>
 
 The PDF-file [is here](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/Emissions.pdf).
