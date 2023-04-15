@@ -1,0 +1,32 @@
+import datetime
+
+start_date = datetime.date(2023, 4, 6)  # Starting date for Group 1
+group1_working_days = [0, 1, 2]  # Group 1 works 
+group2_working_days = [3, 4, 5]  # Group 2 works
+delta = datetime.timedelta(days=1)  # Used to add or subtract days from the current date
+
+def is_working_day(date, group):
+    """
+    Determines whether a given date is a working day for a given group.
+    :param date: The date to check.
+    :param group: The group to check (1 or 2).
+    :return: True if the date is a working day for the group, False otherwise.
+    """
+    days_since_start = (date - start_date).days
+    if group == 1:
+        working_days = group1_working_days
+    elif group == 2:
+        working_days = group2_working_days
+    else:
+        raise ValueError("Invalid group number: {}".format(group))
+    return days_since_start % 6 in working_days
+
+# Example usage
+#date_to_check = datetime.date(2023, 5, 1)
+#print(date_to_check, "is working day for Vasilisa's group? {}".format(is_working_day(date_to_check, 1)))
+#print(date_to_check, "is working day for Julia's group? {}".format(is_working_day(date_to_check, 2)))
+
+#rewrite the blue numbers to the date you want to check:
+date_to_check = datetime.date(2023, 7, 28)
+print(date_to_check, "is working day for Vasilisa's group? {}".format(is_working_day(date_to_check, 1)))
+print(date_to_check, "is working day for Julia's group? {}".format(is_working_day(date_to_check, 2)))
