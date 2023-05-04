@@ -77,7 +77,7 @@ but they have different purpose, design, and applications.
 ## AI and society
 ![The Sims](/assets/images/banners/sims.jpg 'The example of sims interaction') 
 <br>
-Very interesting experiment has been published by Stanford/Google researchers 
+A very interesting experiment has been published by Stanford/Google researchers 
 a few days ago about generative agents on the simulation video game (Park at el., 2023). <br>
 They created a virtual environment with 25 “sims” with some human-related abilities and the possibility 
 to create a multilayered memory for each of them. Researchers waited for cringe results in the end, however, 
