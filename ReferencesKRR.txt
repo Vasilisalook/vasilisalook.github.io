@@ -1,0 +1,19 @@
+
+References for the KRR Reflection Assignment
+
+
+Debenham, J.K. (1988) Knowledge acquisition: a systematic approach. In Proceedings Fourth Australian Conference on Applications of Expert Systems.
+
+Parlar, S. (2019) Ontology Visualization with Protégé. How to use an Ontology Editor? Published in Analytics Vidhya. Available from: https://medium.com/analytics-vidhya/prot%C3%A9g%C3%A9-d533f024087b [Accessed 5 Apr 2023]
+
+Dictionary, O.E. (1989) Oxford English dictionary. Simpson, Ja & Weiner, Esc, 3.
+Protégé: The most widely used ontology editor and framework for building intelligent systems. 
+Available from: https://protegeproject.github.io/protege/ [Accessed 9 Apr 2023]
+
+ChatGPT Mar 23 Version. Available from: chat.openai.com [Accessed 16 Apr 2023]
+
+MSc AI E-Portfolio. Vasilisa Lukashevich's experience (2023) ChatGPT created a working code for my special schedule. Available from: https://vasilisalook.github.io/practice/2023/04/15/3-3.html [Accessed 15 Apr 2023]
+
+Gruber, T.R. (1993) A translation approach to portable ontology specifications. Knowledge acquisition, 5(2), pp.199-220.
+
+Park, J.S., O'Brien, J.C., Cai, C.J., Morris, M.R., Liang, P. & Bernstein, M.S. (2023) Generative Agents: Interactive Simulacra of Human Behavior. arXiv preprint arXiv:2304.03442.
