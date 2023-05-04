@@ -38,6 +38,9 @@ Similar to anthology I imagine ontology as a published collection too, however n
 but concepts and associations between them. <br>
 I am in love with structures, components, rules, links and relations, 
 that is why the second assignment of the module seemed very interesting to me. <br>
+
+[![Protege](/assets/images/banners/protege.jpg 'A book description in Protege')]
+
 I created a project in Protégé for a tiny library in a small imaginary village. 
 It has only 45 books and a dozen readers, however it was very useful to play with connections between the items, 
 to work out a draft for the book rating system, etc. <br>
@@ -72,6 +75,7 @@ In summary, ontology and language models are both used for natural language proc
 but they have different purpose, design, and applications.
 
 ## AI and society
+https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/assets/images/banners/sims.jpg
 Very interesting experiment has been published by Stanford/Google researchers 
 a few days ago about generative agents on the simulation video game (Park at el., 2023). <br>
 They created a virtual environment with 25 “sims” with some human-related abilities and the possibility 
