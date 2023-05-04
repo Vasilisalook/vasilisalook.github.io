@@ -75,7 +75,8 @@ In summary, ontology and language models are both used for natural language proc
 but they have different purpose, design, and applications.
 
 ## AI and society
-![The Sims](/assets/images/banners/sims.jpg 'The example of sims interaction')
+![The Sims](/assets/images/banners/sims.jpg 'The example of sims interaction') 
+<br>
 Very interesting experiment has been published by Stanford/Google researchers 
 a few days ago about generative agents on the simulation video game (Park at el., 2023). <br>
 They created a virtual environment with 25 “sims” with some human-related abilities and the possibility 
