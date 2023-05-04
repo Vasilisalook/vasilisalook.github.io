@@ -80,9 +80,9 @@ but they have different purpose, design, and applications.
 A very interesting experiment has been published by Stanford/Google researchers 
 a few days ago about generative agents on the simulation video game (Park at el., 2023). <br>
 They created a virtual environment with 25 “sims” with some human-related abilities and the possibility 
-to create a multilayered memory for each of them. Researchers waited for cringe results in the end, however, 
+to create a multilayered memory for each of them. The researchers waited for cringe results in the end, however, 
 all the characters coordinate very well with each other and in a human-like way. <br>
-Intelligent agents made gossip and flaked for the party. I used to play Sims when I was a child (and yesterday, frankly speaking). 
+The intelligent agents made gossip and flaked for the party. I used to play Sims when I was a child (and yesterday, frankly speaking). 
 So, I personally waited for the moment when NPC in many games would exist not only like ontology, 
 but also on the basis of language models and memory engines, going to be absolutely autonomous, natural and exciting. <br>
 Additionally, I think, this research may help to create a safe environment to understand more about human society 
