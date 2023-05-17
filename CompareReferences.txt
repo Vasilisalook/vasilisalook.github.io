@@ -1,0 +1,7 @@
+References
+
+Ratkiewicz, J., Conover, M., Meiss, M., Gonçalves, B., Flammini, A. & Menczer, F. (2011) Detecting and tracking political abuse in social media. In Proceedings of the International AAAI Conference on Web and social media (Vol. 5, No. 1, pp. 297-304).
+
+Yampolskiy, R. (2019) Unpredictability of AI. arXiv preprint arXiv:1905.13053. Available from: https://arxiv.org/abs/1905.13053 [Accessed 17 May 2023].
+
+British Research Methodology (BRM) (n.d.) Research Design.
