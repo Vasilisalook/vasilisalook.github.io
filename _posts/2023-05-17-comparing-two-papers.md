@@ -6,8 +6,6 @@ categories: Practice
 tags: [research methods, research design, critical review]
 ---
 
-## Comparing two papers in a Computing field
-
  ![Comparison](/assets/images/banners/compare.jpg)<br>
 
 In this post, I aim to compare two papers in the field of Computing to assess my proficiency 
