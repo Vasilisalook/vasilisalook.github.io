@@ -1,6 +1,6 @@
 ---
 layout: post
-title:Comparing two papers in a Computing field
+title: Comparing two papers in a Computing field
 subtitle: Research Methods and Professional Practice Activity
 categories: Practice
 tags: [research methods, research design, critical review]
