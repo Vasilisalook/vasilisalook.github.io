@@ -14,4 +14,5 @@ I have compiled [a simple guide](https://github.com/Vasilisalook/vasilisalook.gi
 based on Midjourney, to assist poets in becoming painters with AI, 
 even if they have never heard of Machine Learning or mistakenly believe 
 that CNN refers to a television channel rather than Convolutional Neural Network. 
+(If you download the file onto your PC, the links will become active).
 I would be delighted if you find it useful.
