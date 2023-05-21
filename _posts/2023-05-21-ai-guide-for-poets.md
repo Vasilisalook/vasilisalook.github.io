@@ -3,7 +3,7 @@ layout: post
 title: AI-Illustration for poets
 subtitle: Additional Activity
 categories: Practice
-tags: [midjourney, neural network, CNN, e-illustration, poetry, visualisation, guide]
+tags: [midjourney, CNN, AI art, poetry, visualisation, guide]
 ---
 
 ## Everyone can be an artist 
