@@ -5,7 +5,7 @@ subtitle: The sixth module of the course
 categories: Modules
 tags: [research, academic writing, statistics, survey, interview, case studies]
 ---
-## Unit 1: Starting Ethically
+## Unit 1. Starting Ethically
 
 During the first week of this module, the topic of ethics in the field of computing was suggested for discussion. <br>
 
