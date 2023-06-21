@@ -3,7 +3,7 @@ layout: post
 title: Data Visualisation
 subtitle: Additional Activity
 categories: Practice
-tags: [numerical analysis, information design, data, data science, data visualisation, R, scatterplot]
+tags: [numerical analysis, information design, data, data science, visualisation, R, scatterplot]
 ---
 
 ## An Information Design project
