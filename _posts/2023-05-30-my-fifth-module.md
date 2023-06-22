@@ -9,7 +9,7 @@ tags: [agent, AI, multi-agent system, NLP, ACLs, parse trees]
 
 On this page I collected notes on my humble progress during the module...
 
-## Unit 1. Dark sides of agent-based systems in social media
+## Unit 1. Dark sides of agent-based systems
 
 **Summary Post for the discussion** <br> 
 
