@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Research Methods and Professional Practice
+title: Research Methods & Professional Practice
 subtitle: The sixth module of the course
 categories: Modules
 tags: [research, academic writing, statistics, survey, interview, case studies]
@@ -23,6 +23,7 @@ You are welcome to download my answer from [here](https://github.com/Vasilisaloo
 **Summary Post for the discussion**
 
 We had an engaging discussion with fellow students on the topic of the ethics code, based on an illustrative case from the Association of Computing Machinery website: “Automated Active Response Weaponry”. 
+
 In this particular case, a company violated several rules of the ACM Code of Ethics and Professional Conduct. For instance, developers ignored Principle 1.2 (avoid harm), Principle 1.1 (contribute to society and human well-being), Principle 1.6 (respect privacy),and Principle 1.4 (do not discriminate). 
 Furthermore, the engineers of this company acted correctly by resigning and publicly expressing their awareness, despite breaking their confidentiality agreements. This action aligns with Principle 1.7 (honour confidentiality), Principle 2.5 (provide comprehensive evaluations of potential risks), and Principle 3.1 (ensure that the public good is of central concern).
 
