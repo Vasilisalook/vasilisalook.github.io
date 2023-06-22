@@ -38,4 +38,11 @@ In conclusion, I have not come across recent information from scholars regarding
 
 You are welcome to find the list of references [here.](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/PP_Unit2_References.txt)
 
+## Unit 3. Comparing two papers in a Computing field
+
+This unit helped me to evaluate existing literature, research design and methodology for the chosen topic. I have compared two papers in the field of Computing to assess my proficiency in delivering a critical review of existing literature.
+I put a separate [post](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/_posts/2023-05-17-comparing-two-papers.md) about it, you are welcome to click and read. 
+
+
+
 
