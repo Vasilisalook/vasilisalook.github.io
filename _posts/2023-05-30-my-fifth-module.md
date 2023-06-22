@@ -5,6 +5,10 @@ subtitle: The fifth module of the course
 categories: Modules
 tags: [agent, AI, multi-agent system, NLP, ACLs, parse trees]
 ---
+## Summary of the Intelligent Agents module
+
+On this page I collected notes on my humble progress during the module...
+
 ## Unit 1. Dark sides of agent-based systems in social media
 
 **Summary Post for the discussion** <br> 
