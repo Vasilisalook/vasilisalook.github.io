@@ -5,6 +5,10 @@ subtitle: The sixth module of the course
 categories: Modules
 tags: [research, academic writing, statistics, survey, interview, case studies]
 ---
+## Summary of the Research Methods and Professional Practice module
+
+On this page I collected notes on my humble progress during the module...
+
 ## Unit 1. Starting Ethically
 
 During the first week of this module, the topic of ethics in the field of computing was suggested for discussion. <br>
