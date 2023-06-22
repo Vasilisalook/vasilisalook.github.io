@@ -46,6 +46,6 @@ The most recent studies on this sensitive topic were published two to three year
 For example, "How viable is international arms control for military artificial intelligence? Three lessons from nuclear weapons" (Maas, 2019). <br> 
 However, I believe this theme remains relevant, and scholars should raise more questions about it in the context of ethics.<br> 
 
-You are welcome to find the list of references [here](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/PP_Unit2_References.txt)
+You are welcome to find the list of references [here.](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/PP_Unit2_References.txt)
 
 
