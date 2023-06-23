@@ -26,4 +26,4 @@ And in the end, I have got a nice list of useful and actual [references](https:/
 
 ## Unit 2. FOL for linguists
 
- ![FOL](assets/images/banners/FOL_linguistics.jpg)
+ ![FOL](/assets/images/banners/FOL_linguistics.jpg)
