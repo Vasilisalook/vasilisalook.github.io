@@ -23,3 +23,7 @@ Our discussion also touched on bias within recommender systems, which can lead t
 At the conclusion of our conversation, Anastasia Rizzo (Rizzo, 2023) posed thought-provoking questions. For instance, how can we strike a balance between the benefits of these agents and user safety and autonomy? What measures can companies and developers implement to mitigate the negative impacts and foster responsible AI deployment?
 
 And in the end, I have got a nice list of useful and actual [references](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/IA_Unit1_References.txt) on the topic above. 
+
+## Unit 2. FOL for linguists
+
+ ![FOL](assets/images/banners/FOL_linguistics.jpg)
