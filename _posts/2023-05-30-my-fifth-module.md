@@ -34,9 +34,9 @@ Understanding the fundamental terms and rules of this logic is crucial. For exam
 
 I consider this point to be where programming becomes a highly creative process. To write a sentence like *"It is rained"* as *weather(X, rain)*, one needs to exercise creativity. Another intriguing observation is that pronouns such as *I, it, you, he*, and *she* can be regarded as **variables** in natural language. My insight is that a human language itself is a program, albeit a highly layered and sophisticated one.
 
-## Unit 3. Agent architectures
+## Unit 3. Hybrid agents
 
-The agent architecture turned out to be one of the most challenging topics for me throughout the entire educational process because the level of abstraction here seemed too high. It felt like I needed visualisations for every concept.
+The agent architectures turned out to be one of the most challenging topics for me throughout the entire educational process because the level of abstraction here seemed too high. It felt like I needed visualisations for every concept.
 
 I realised that hybrid agents are something between symbolic (or deliberative) reasoning agents and reactive agents. They attempt to balance proactiveness with reactivity (Beckley, 2023).
 
