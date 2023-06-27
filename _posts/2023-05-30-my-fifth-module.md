@@ -3,7 +3,7 @@ layout: post
 title: Intelligent Agents
 subtitle: The fifth module of the course
 categories: Modules
-tags: [agent, AI, multi-agent system, NLP, ACLs, parse trees]
+tags: [agent, AI, multi-agent system, hybrid agent, NLP, ACLs, parse trees]
 ---
 ## Summary of the Intelligent Agents module
 
