@@ -48,3 +48,8 @@ I believe it is a beautiful branch of science because it bridges the tangible, c
 
 I understand that the concept of an intelligent agent is used metaphorically to bring together currently disconnected strands of computer science, such as machine learning, robotics, multi-agent systems, and so on.
 
+## Unit 8. Creating parse trees
+
+![Parse Trees](/assets/images/banners/parse.jpg)  <br>
+
+Parse tree shows the relationship between a specific sentence and the grammar concepts.
