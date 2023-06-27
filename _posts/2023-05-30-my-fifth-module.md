@@ -52,4 +52,6 @@ I understand that the concept of an intelligent agent is used metaphorically to 
 
 ![Parse Trees](/assets/images/banners/parse.jpg)  <br>
 
-Parse tree shows the relationship between a specific sentence and the grammar concepts.
+Parse tree shows the relationship between a specific sentence and the grammar concepts. As a linguist, I find this topic very familiar. It's great to see that programmers utilise the same concepts, such as "part of speech" (POS) or "grammatical relations." Decades of philological research by humans have been incredibly helpful for computer science.
+
+When I first started studying methods like lemmatisation (reducing a word to its root form), I had concerns about cutting off the end of words because it may remove important contextual information (such as distinguishing between one dog or many dogs). However, I soon realised that the major disadvantage of lemmatisation algorithms is their slower speed compared to stemming algorithms.
