@@ -45,6 +45,9 @@ You are welcome to find the list of references [here.](https://github.com/Vasili
 This unit helped me to evaluate existing literature, research design and methodology for the chosen topic. I have compared two papers in the field of Computing to assess my proficiency in delivering a critical review of existing literature.
 I put a separate [post](https://vasilisalook.github.io/practice/2023/05/17/comparing-two-papers.html) about it, you are welcome to click and read. 
 
+## Unit 4. Delving into the data collection methods
+
+In this [Case Study - Privacy](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/Privacy.docx) exercise, I have mentioned the fundamental principles of research ethics, such as data protection, participants' confidentiality, and the responsibility for ensuring that third parties also uphold confidentiality. As a journalist, I am well aware of how frequently these principles are violated. However, I believe that reputable research institutions must prioritise safeguarding their reputation.
 
 
 
