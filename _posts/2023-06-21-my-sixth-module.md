@@ -42,7 +42,7 @@ You are welcome to find the list of references [here.](https://github.com/Vasili
 
 **Comparing two papers in a Computing field**
 
-This unit helped me to evaluate existing literature, research design and methodology for the chosen topic. I have compared two papers in the field of Computing to assess my proficiency in delivering a critical review of existing literature.
+This unit helped me to better understand research design and methodology for a specific study. I have compared two papers in the field of Computing to enhance my proficiency in delivering a critical review of existing literature.
 I put a separate [post](https://vasilisalook.github.io/practice/2023/05/17/comparing-two-papers.html) about it, you are welcome to click and read. 
 
 ## Unit 4. Delving into the data collection methods
