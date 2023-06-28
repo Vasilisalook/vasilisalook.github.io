@@ -34,7 +34,7 @@ Understanding the fundamental terms and rules of this logic is crucial. For exam
 
 I consider this point to be where programming becomes a highly creative process. To write a sentence like *"It is rained"* as *weather(X, rain)*, one needs to exercise creativity. Another intriguing observation is that pronouns such as *I, it, you, he*, and *she* can be regarded as **variables** in natural language. My insight is that a human language itself is a program, albeit a highly layered and sophisticated one.
 
-## Unit 3. Hybrid Agents
+## Units 3-4. Hybrid Agents
 
 The agent architectures turned out to be one of the most challenging topics for me throughout the entire educational process because the level of abstraction here seemed too high. It felt like I needed visualisations for every concept.
 
@@ -48,10 +48,19 @@ I believe it is a beautiful branch of science because it bridges the tangible, c
 
 I understand that the concept of an intelligent agent is used metaphorically to bring together currently disconnected strands of computer science, such as machine learning, robotics, multi-agent systems, and so on.
 
+## Unit 5. Development Team Project
+
+- Team Discussions
+
 ## Unit 6. Creating Agent Dialogues
 
-I have created a simple [Agent Dialogue using KQML](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/KQML.docx) to design communications between agents.
-strengths and weaknesses of agent communications languages
+I have created an [Agent Dialogue using KQML](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/KQML.docx) to design a basic example of communication between agents.
+
+We had a discussion with fellow students on the strengths and weaknesses of agent communication languages (ACLs). I realised that KQML was popular in the 1990s, whereas nowadays the Foundation for Intelligent Physical Agents (FIPA-ACL) is more commonly used. Unlike Python or Java, ACLs are more complex and offer greater interoperability, although they lack language integration.
+
+- Summary for the Fellow Students discussion
+
+## Unit 7. 
 
 ## Unit 8. Creating Parse Trees
 
