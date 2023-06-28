@@ -60,7 +60,9 @@ We had a discussion with fellow students on the strengths and weaknesses of agen
 
 - Summary for the Fellow Students discussion
 
-## Unit 7. 
+## Unit 7. Natural Language Processing (NLP)
+
+?
 
 ## Unit 8. Creating Parse Trees
 
