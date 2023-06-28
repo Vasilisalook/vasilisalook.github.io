@@ -9,9 +9,9 @@ tags: [agent, AI, multi-agent system, hybrid agent, NLP, ACLs, parse trees]
 
 On this page I collected notes on my humble progress during the module...
 
-## Unit 1. Dark sides of agent-based systems
+## Unit 1. Dark sides of Agent-based systems
 
-**Summary Post for the discussion** <br> 
+**Summary Post for the Discussion** <br> 
 
 We had a remarkable discussion with fellow students on the topic of Intelligent Agents in social media. During our conversation about agent-based systems like chatbots, sentiment analysis, and recommender systems, we also delved into the darker side of their development. These tools, while assisting companies in staying competitive by enhancing user engagement and satisfaction through the analysis of user behavior, can also manipulate users. 
 
@@ -24,7 +24,7 @@ At the conclusion of our conversation, Anastasia Rizzo (Rizzo, 2023) posed thoug
 
 And in the end, I have got a nice list of useful and actual [references](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/IA_Unit1_References.txt) on the topic above. 
 
-## Unit 2. FOL for linguists
+## Unit 2. FOL for Linguists
 
 As a linguist, I have devised a primitive visual scheme for transforming sentences from English natural language to First-order language in order to grasp the main idea on my own. **First-order logic** offers greater expressive power than **Propositional logic**, which is also utilized in the field of computing. I find it fascinating and intellectually stimulating to interpret information from "English human" format to "English computer" format. I believe this is of great importance because individuals can be represented as agents in systems too.
 
@@ -34,7 +34,7 @@ Understanding the fundamental terms and rules of this logic is crucial. For exam
 
 I consider this point to be where programming becomes a highly creative process. To write a sentence like *"It is rained"* as *weather(X, rain)*, one needs to exercise creativity. Another intriguing observation is that pronouns such as *I, it, you, he*, and *she* can be regarded as **variables** in natural language. My insight is that a human language itself is a program, albeit a highly layered and sophisticated one.
 
-## Unit 3. Hybrid agents
+## Unit 3. Hybrid Agents
 
 The agent architectures turned out to be one of the most challenging topics for me throughout the entire educational process because the level of abstraction here seemed too high. It felt like I needed visualisations for every concept.
 
@@ -48,7 +48,12 @@ I believe it is a beautiful branch of science because it bridges the tangible, c
 
 I understand that the concept of an intelligent agent is used metaphorically to bring together currently disconnected strands of computer science, such as machine learning, robotics, multi-agent systems, and so on.
 
-## Unit 8. Creating parse trees
+## Unit 6. Creating Agent Dialogues
+
+I have created a simple [Agent Dialogue using KQML](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/KQML.docx) to design communications between agents.
+strengths and weaknesses of agent communications languages
+
+## Unit 8. Creating Parse Trees
 
 ![Parse Trees](/assets/images/banners/parse.jpg)  <br>
 
