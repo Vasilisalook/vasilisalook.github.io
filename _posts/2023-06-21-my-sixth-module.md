@@ -49,5 +49,25 @@ I put a separate [post](https://vasilisalook.github.io/practice/2023/05/17/compa
 
 In this [Case Study - Privacy](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/Privacy.docx) exercise, I have mentioned the fundamental principles of research ethics, such as data protection, participants' confidentiality, and the responsibility for ensuring that third parties also uphold confidentiality. As a journalist, I am well aware of how frequently these principles are violated. However, I believe that reputable research institutions must prioritise safeguarding their reputation.
 
+## Unit 5. Cambridge Analytica case
+...
 
+## Unit 6. 
+
+e-Portfolio Activity: Research Proposal Review
+Considering your thoughts on your chosen area of interest for your project:
+
+Which of the methods described in this week's reading would you think would suit your purpose?
+Which data collection methods would you consider using?
+Note that you may find that you could be using a mixture of both the research methods and the data collection methods. These considerations should be included in your presentation of the Project Proposal in Unit 10.
+
+e-Portfolio update: Data Collection
+Think about which data collection tool will be suitable for your area of investigation (in this module and/or in your Project module). How will you collect it and what analysis would you hope to perform? How will this answer your research question? This should also be included in the presentation of your Project Proposal in Unit 10.
+Wiki Activity: Questionnaires
+Find a questionnaire and critique the design, both the format and the questions used.
+Consider areas such as ‘why is this question included?’, ‘is the form of the question appropriate?’ etc. How can you improve the questionnaire?  Put your analysis in the module wiki and comment on others’ analyses.
+
+## Unit 7. Literature Review epic fail story
+
+## Unit 8. Statistics Worksheets
 
