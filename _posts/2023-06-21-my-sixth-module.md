@@ -67,7 +67,19 @@ Wiki Activity: Questionnaires
 Find a questionnaire and critique the design, both the format and the questions used.
 Consider areas such as ‘why is this question included?’, ‘is the form of the question appropriate?’ etc. How can you improve the questionnaire?  Put your analysis in the module wiki and comment on others’ analyses.
 
-## Unit 7. Literature Review epic fail story
+## Unit 7. My first fail
+
+![Literature Review Epic Fail](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/assets/images/banners/failed.jpg)
+
+For the first time during my studying process at the University of Essex, I failed an assignment. This occurred in this specific module where I had chosen the topic for the Literature Review: "Implementing Deep Learning tools and techniques to detect political misinformation on social media platforms." [Here is the outline paper containing the initial plan.](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/Literature%20Review%20Outline.docx)
+
+The tutor provided positive feedback for thr outline, emphasising the need to focus on a critical 'pros and cons' discussion with academic value, supported by citations throughout the Literature Review content.
+
+From the outset, I recognised the necessity of reviewing a substantial amount of information sources in order to produce a profound and meaningful secondary research. I studied over 20 papers covering diverse topics, ranging from the meaning of propaganda and political misinformation to the accuracy of Geometric Deep Learning and practical examples of implementing AI tools.
+
+However, I overlooked a very important aspect of academic writing. In certain explanations, I unintentionally included parts of sentences from related sources without proper citation. Although I mentioned all these papers in the reference list, it became apparent that this approach was highly inappropriate. The Turnitin software flagged 30% of the text as non-original, even though, in the Literature Review format, this indicator should ideally be between 0% and 10% (despite the fact that Academic integrity only accounts for 10% of the overall grade). Due to the lack of my own academic voice in writing, I failed to meet one of the most crucial criteria - Knowledge and understanding (30% of the overall grade).
+
+According to tutors, another issue with my review is its predominantly descriptive nature, lacking critical analysis. I am advised to incorporate more pros and cons into the discussion, not solely relying on comparing model results, but also expressing my own perspective on the primary issue highlighted in the topic.
 
 ## Unit 8. Statistics Worksheets
 
