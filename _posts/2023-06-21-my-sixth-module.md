@@ -69,7 +69,7 @@ Consider areas such as ‘why is this question included?’, ‘is the form of t
 
 ## Unit 7. My first fail
 
-![Epic Fail](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/assets/images/banners/failed.jpg)
+
 
 For the first time during my studying process at the University of Essex, I failed an assignment. This occurred in this specific module where I had chosen the topic for the Literature Review: "Implementing Deep Learning tools and techniques to detect political misinformation on social media platforms." [Here is the outline paper containing the initial plan.](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/Literature%20Review%20Outline.docx)
 
