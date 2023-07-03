@@ -49,8 +49,10 @@ I put a separate [post](https://vasilisalook.github.io/practice/2023/05/17/compa
 
 In this [Case Study - Privacy](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/Privacy.docx) exercise, I have mentioned the fundamental principles of research ethics, such as data protection, participants' confidentiality, and the responsibility for ensuring that third parties also uphold confidentiality. As a journalist, I am well aware of how frequently these principles are violated. However, I believe that reputable research institutions must prioritise safeguarding their reputation.
 
-## Unit 5. Cambridge Analytica case
-...
+## Unit 5. Survey Methods
+![Retracted stamp](/assets/images/banners/retracted.png)
+
+In this unit, I independently conducted a small research on the inappropriate use of surveys, ranging from the Cambridge Analytica story to the retracted publication of Wakefield in The Lancet. This work sheds light on the crisis within the scientific community and emphasises the importance of critical thinking. You are welcome to read [my brief analysis on the topic.](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/surveys.docx)
 
 ## Unit 6. 
 
