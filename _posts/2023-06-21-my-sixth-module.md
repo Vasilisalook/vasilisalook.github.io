@@ -54,7 +54,7 @@ In this [Case Study - Privacy](https://github.com/Vasilisalook/vasilisalook.gith
 
 In this unit, I independently conducted a small research on the inappropriate use of surveys, ranging from the Cambridge Analytica story to the retracted publication of Wakefield in The Lancet. This work sheds light on the crisis within the scientific community and emphasises the importance of critical thinking. You are welcome to read [my brief analysis on the topic.](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/surveys.docx)
 
-## Unit 6. 
+## Unit 6. Questionnaire Design in Marketing
 
 e-Portfolio Activity: Research Proposal Review
 Considering your thoughts on your chosen area of interest for your project:
@@ -64,7 +64,9 @@ Which data collection methods would you consider using?
 Note that you may find that you could be using a mixture of both the research methods and the data collection methods. These considerations should be included in your presentation of the Project Proposal in Unit 10.
 
 e-Portfolio update: Data Collection
-Think about which data collection tool will be suitable for your area of investigation (in this module and/or in your Project module). How will you collect it and what analysis would you hope to perform? How will this answer your research question? This should also be included in the presentation of your Project Proposal in Unit 10.
+Think about which data collection tool will be suitable for your area of investigation (in this module and/or in your Project module). How will you collect it and what analysis would you hope to perform? How will this answer your research question? This should also be included in the presentation of your Project Proposal in 
+
+Unit 10.
 Wiki Activity: Questionnaires
 Find a questionnaire and critique the design, both the format and the questions used.
 Consider areas such as ‘why is this question included?’, ‘is the form of the question appropriate?’ etc. How can you improve the questionnaire?  Put your analysis in the module wiki and comment on others’ analyses.
