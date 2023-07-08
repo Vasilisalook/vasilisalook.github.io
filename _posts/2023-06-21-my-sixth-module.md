@@ -85,5 +85,9 @@ However, I overlooked a very important aspect of academic writing. In certain ex
 
 According to tutors, another issue with my review is its predominantly descriptive nature, lacking critical analysis. I am advised to incorporate more pros and cons into the discussion, not solely relying on comparing model results, but also expressing my own perspective on the primary issue highlighted in the topic.
 
+**Discussion Topic - Case Study: Accuracy of information**
+
+Another discussion on ethical concerns surrounding data analysis has taken place. In the given scenario, Abi encounters several ethical dilemmas regarding the analysis and reporting of the nutritional value of the cereal, Whizzz. On one hand, the answer to Abi's case is obvious - it is unacceptable to falsify research results, particularly if they are unfavourable to the product manufacturer. However, in the real world, we are confronted with a complex framework of the details and conditions, ranging from the country where the study was conducted to the methods employed and the definition of "harm to consumer health." Please feel free to [read my summary post on the discussion here.](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/Accuracy%20of%20information%20Summary.docx)
+
 ## Unit 8. Statistics Worksheets
 
