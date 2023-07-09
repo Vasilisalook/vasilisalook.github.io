@@ -66,10 +66,6 @@ Note that you may find that you could be using a mixture of both the research me
 e-Portfolio update: Data Collection
 Think about which data collection tool will be suitable for your area of investigation (in this module and/or in your Project module). How will you collect it and what analysis would you hope to perform? How will this answer your research question? This should also be included in the presentation of your Project Proposal in 
 
-Unit 10.
-Wiki Activity: Questionnaires
-Find a questionnaire and critique the design, both the format and the questions used.
-Consider areas such as ‘why is this question included?’, ‘is the form of the question appropriate?’ etc. How can you improve the questionnaire?  Put your analysis in the module wiki and comment on others’ analyses.
 
 ## Unit 7. My first fail
 
@@ -89,5 +85,10 @@ According to tutors, another issue with my review is its predominantly descripti
 
 Another discussion on ethical concerns surrounding data analysis has taken place. In the given scenario, Abi encounters several ethical dilemmas regarding the analysis and reporting of the nutritional value of the cereal, Whizzz. On one hand, the answer to Abi's case is obvious - it is unacceptable to falsify research results, particularly if they are unfavourable to the product manufacturer. However, in the real world, we are confronted with a complex framework of the details and conditions, ranging from the country where the study was conducted to the methods employed and the definition of "harm to consumer health." Please feel free to [read my summary post on the discussion here.](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/Accuracy%20of%20information%20Summary.docx)
 
-## Unit 8. Statistics Worksheets
+## Unit 8-9. Statistics Worksheets
+
+## Unit 10
+Wiki Activity: Questionnaires
+Find a questionnaire and critique the design, both the format and the questions used.
+Consider areas such as ‘why is this question included?’, ‘is the form of the question appropriate?’ etc. How can you improve the questionnaire?  Put your analysis in the module wiki and comment on others’ analyses.
 
