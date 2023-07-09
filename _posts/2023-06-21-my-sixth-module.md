@@ -88,9 +88,11 @@ Another discussion on ethical concerns surrounding data analysis has taken place
 ## Unit 8-9. Statistics Worksheets
 
 ## Unit 10
-Wiki Activity: Questionnaires
+**Questionnaires**
 Find a questionnaire and critique the design, both the format and the questions used.
 Consider areas such as ‘why is this question included?’, ‘is the form of the question appropriate?’ etc. How can you improve the questionnaire?  Put your analysis in the module wiki and comment on others’ analyses.
+
+**Research Proposal Presentation**
 
 ## Unit 11. Skill Matrix and Action Plan
 
