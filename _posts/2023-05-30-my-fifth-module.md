@@ -50,7 +50,19 @@ I understand that the concept of an intelligent agent is used metaphorically to 
 
 ## Unit 5. Development Team Project
 
-To be honest, it has been quite challenging for me while working on the development team project...
+ ![Team Project Main Picture](/assets/images/banners/background%20pic.jpg) <br>
+To be honest, I found it quite challenging to work on the development team project, particularly when it came to distinguishing between a multi-agent system, a single-agent system, and a distributed system with autonomous objects.
+
+According to Odell (2002), agents exhibit autonomy because they can react to their environment and follow instructions. For instance, agents have the ability to both "say 'No' and ‘Go’. Agents engage in a negotiation-like process, exchanging information and incorporating it into their existing knowledge acquired from the environment. Based on this knowledge, agents make decisions on how to proceed.
+
+Another challenge we encountered was the usage of Knowledge Query and Manipulation Language (KQML). This widely used agent communication language (ACL) allows agents with different goals and ontologies to share information while pursuing their individual objectives (Finin at al., 1994).
+
+However, at the beginning, our team had a vague understanding of how to appropriately implement KQML in Python. As a result, we decided to start with creating a single-agent system with two modules to address the needs of the Digital Forensics domain for a hypothetical detective agency. The system's purpose was to locate specific file types within a file system, archive them, and transmit the results for further analysis.
+
+We proposed implementing this task using a single-agent system, considering that intelligent agents possess key characteristics such as autonomy, reactivity, proactivity, adaptability, and the ability to communicate and coordinate with other agents (Kendrick et al., 2016).
+During the evaluation, the tutor provided positive feedback, stating that the report was well-presented and covered the topic in sufficient detail. However, they advised us to provide explanations for the choices we made and to enhance our focus on critical analysis.
+
+[References]( https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/References%20for%20Team%20Project%201.txt)
 
 ## Unit 6. Creating Agent Dialogues
 
