@@ -1,0 +1,7 @@
+References
+
+Finin, T., Fritzson, R., McKay, D. &  McEntire, R. (1994) ‘KQML-a language and protocol for knowledge and information exchange’ 13th International Distributed Artificial Intelligence Workshop. Seattle, WA, 28-30 July.  Association for the Advancement of Artificial Intelligence (AAAI). 93-103.
+
+Odell, J. (2002) Objects and agents compared. Journal of object technology, 1(1): 41-53.
+
+Kendrick, P., Hussain, A.J. & Criado, N. (2016) Multi-agent systems for dynamic forensic investigation. In Intelligent Computing Theories and Application: 12th International Conference, ICIC 2016, Lanzhou, China, August 2-5, 2016, Proceedings, Part I 12 (pp. 796-807). Springer International Publishing.
