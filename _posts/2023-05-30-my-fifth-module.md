@@ -71,3 +71,17 @@ In this module, we have had the best and the most engaging discussion with my fe
 Parse tree shows the relationships between a specific sentence and the grammar concepts. As a linguist, I find this topic very familiar. It's great to see that programmers utilise the same concepts, such as "part of speech" (POS) or "grammatical relations." Decades of philological research by humans have been incredibly helpful for computer science.
 
 When I first started studying methods like lemmatisation (reducing a word to its root form), I had concerns about cutting off the end of words because it may remove important contextual information (such as distinguishing between one dog or many dogs). However, I soon realised that the major disadvantage of lemmatisation algorithms is their slower speed compared to stemming algorithms.
+
+## Unit 9. Deep Learning
+
+**Collaborative Discussion 3**
+
+## Unit 10. Deep Learning in action
+
+Activity Guidance
+You are required to research an application of Deep Learning that you think is going to have an impact on society (whether that is positive or negative). When you have found your application you should make a post on the discussion forum that covers:
+An overview of the technology (e.g., what it does).
+A brief synopsis of how it works.
+The potential impacts this will have in terms of ethics, privacy, social good, or any other socio-technical aspects that you feel are relevant.
+
+## Unit 11. Skill Matrix and Action Plan
