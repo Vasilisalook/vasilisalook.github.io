@@ -50,7 +50,7 @@ I understand that the concept of an intelligent agent is used metaphorically to 
 
 ## Unit 5. Development Team Project
 
-- Team Discussions
+To be honest, it has been quite challenging for me while working on the development team project...
 
 ## Unit 6. Creating Agent Dialogues
 
@@ -58,7 +58,7 @@ I have created an [Agent Dialogue using KQML](https://github.com/Vasilisalook/va
 
 **Summary for the ACL and agent system discussion**
 
-In this module, we have had the best and the most engaging discussion with my fellow students throughout my entire time studying at the University of Essex. The discussion came at a crucial moment when my team and I were trying to differentiate between a multi-agent system and a single-agent system. To be honest, it has been quite challenging for me while working on the development team project. I warmly invite you [to read the Collaborative Discussion Summary, which includes a list of useful references.](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/Agents%20Discussion%20Summary.docx)
+In this module, we have had the best and the most engaging discussion with my fellow students throughout my entire time studying at the University of Essex. The discussion came at a crucial moment when my team and I were trying to differentiate between a multi-agent system and a single-agent system. I warmly invite you [to read the Collaborative Discussion Summary, which includes a list of useful references.](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/Agents%20Discussion%20Summary.docx)
 
 ## Unit 7. Natural Language Processing (NLP)
 
