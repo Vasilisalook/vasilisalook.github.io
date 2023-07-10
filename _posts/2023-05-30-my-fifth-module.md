@@ -63,6 +63,7 @@ We proposed implementing this task using a single-agent system, considering that
 During the evaluation, the tutor provided positive feedback, stating that the report was well-presented and covered the topic in sufficient detail. However, they advised us to provide explanations for the choices we made and to enhance our focus on critical analysis.
 
 [References]( https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/References%20for%20Team%20Project%201.txt)
+[Team Project 1](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/Team%20Project%201.docx)
 
 ## Unit 6. Creating Agent Dialogues
 
