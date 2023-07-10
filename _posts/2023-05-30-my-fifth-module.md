@@ -75,13 +75,21 @@ In this module, we have had the best and the most engaging discussion with my fe
 
 ## Unit 7. Natural Language Processing (NLP)
 
-?
+![spaCy](/assets/images/banners/spacy.png)  <br>
+
+As a linguist, I find natural language processing (NLP) branch of computer science to be incredibly fascinating. I enjoy working with the spaCy library, which offers a wide range of linguistic annotations for sentences and enables faster analysis than searching through dictionaries.
+
+Another practical application of NLP is utilising machine learning (ML) to analyse whether comments in the Russian language contain toxic content (I did it last year during ML module).
+
+I will encounter numerous tasks in the context of NLP while working on my Capstone project (the project is around news texts and bias detection methods).
+
+However, one of the major challenges in NLP is the scarcity of sufficient training data (Ain et al., 2017). This has led to the emergence of pre-trained BERT models, which are based on NLP tasks such as Masked Language Modelling and Next Sentence Prediction anyway.
 
 ## Unit 8. Creating Parse Trees
 
 ![Parse Trees](/assets/images/banners/parse.jpg)  <br>
 
-Parse tree shows the relationships between a specific sentence and the grammar concepts. As a linguist, I find this topic very familiar. It's great to see that programmers utilise the same concepts, such as "part of speech" (POS) or "grammatical relations." Decades of philological research by humans have been incredibly helpful for computer science.
+Parse tree shows the relationships between a specific sentence and the grammar concepts. Again, as a linguist, I find this topic very familiar. It's great to see that programmers utilise the same concepts, such as "part of speech" (POS) or "grammatical relations." Decades of philological research by humans have been incredibly helpful for computer science.
 
 When I first started studying methods like lemmatisation (reducing a word to its root form), I had concerns about cutting off the end of words because it may remove important contextual information (such as distinguishing between one dog or many dogs). However, I soon realised that the major disadvantage of lemmatisation algorithms is their slower speed compared to stemming algorithms.
 
