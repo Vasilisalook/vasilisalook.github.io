@@ -62,7 +62,7 @@ However, at the beginning, our team had a vague understanding of how to appropri
 We proposed implementing this task using a single-agent system, considering that intelligent agents possess key characteristics such as autonomy, reactivity, proactivity, adaptability, and the ability to communicate and coordinate with other agents (Kendrick et al., 2016).
 During the evaluation, the tutor provided positive feedback, stating that the report was well-presented and covered the topic in sufficient detail. However, they advised us to provide explanations for the choices we made and to enhance our focus on critical analysis.
 
-[References]( https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/References%20for%20Team%20Project%201.txt)
+[References]( https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/References%20for%20Team%20Project%201.txt)<br> 
 [Team Project 1](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/Team%20Project%201.docx)
 
 ## Unit 6. Creating Agent Dialogues
