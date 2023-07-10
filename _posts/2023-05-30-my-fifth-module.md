@@ -105,4 +105,6 @@ An overview of the technology (e.g., what it does).
 A brief synopsis of how it works.
 The potential impacts this will have in terms of ethics, privacy, social good, or any other socio-technical aspects that you feel are relevant.
 
-## Unit 11. Skill Matrix and Action Plan
+## Unit 11. Team Project 2 (Presentation)
+## Unit 12. Skill Matrix and Action Plan
+
