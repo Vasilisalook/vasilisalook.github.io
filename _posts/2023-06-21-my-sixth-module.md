@@ -1,4 +1,4 @@
----
+![image](https://github.com/Vasilisalook/vasilisalook.github.io/assets/93581837/bcc12525-27a0-4200-8a0e-b63409775e15)---
 layout: post
 title: Research Methods & Professional Practice
 subtitle: The sixth module of the course
@@ -50,21 +50,35 @@ I put a separate [post](https://vasilisalook.github.io/practice/2023/05/17/compa
 In this [Case Study - Privacy](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/Privacy.docx) exercise, I have mentioned the fundamental principles of research ethics, such as data protection, participants' confidentiality, and the responsibility for ensuring that third parties also uphold confidentiality. As a journalist, I am well aware of how frequently these principles are violated. However, I believe that reputable research institutions must prioritise safeguarding their reputation.
 
 ## Unit 5. Survey Methods
-![Retracted stamp](/assets/images/banners/retracted.png)
+![Retracted stamp](/assets/images/banners/retracted.png) <br>
 
 In this unit, I independently conducted a small research on the inappropriate use of surveys, ranging from the Cambridge Analytica story to the retracted publication of Wakefield in The Lancet. This work sheds light on the crisis within the scientific community and emphasises the importance of critical thinking. You are welcome to read [my brief analysis on the topic.](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/surveys.docx)
 
-## Unit 6. Questionnaire Design in Marketing
+## Unit 6. Survey and Questionnaire Design
 
-e-Portfolio Activity: Research Proposal Review
-Considering your thoughts on your chosen area of interest for your project:
+Research is not always what it seems. I became aware of this through stories related to marketing from a friend of mine, who explained to me the attitude-behavior gap in consumerism many years ago. For instance, in surveys and questionaries, consumers state their preference for buying a yellow or pink coat this autumn, but in reality, they often end up purchasing a grey or black one. Therefore, the actual purchase actions can reveal more about the real priorities and needs of consumers.
+I suppose, in the modern world, this gap problem seems very relevant. Against the backdrop of climate change and the need to reshape our consumer habits, according to surveys, people may willingly embrace "green" consumer behaviour, voluntarily giving up fuel vehicles in favour of electric transport. However, in practice, we discover discrepancy between green attitudes and behaviour (Johnstone & Tan, 2015).
+(Boulstridge & Carrigan, 2000) have firstly described this gap from the perspective of consumer purchase behavior in relation to corporate reputation. However, I began to question the reliability of the research format itself.
+Furthermore, in addition to the main issues of misunderstandings in questionnaires, such as ignoring the instructions and incorrect interpretations of the questions described by Hardy & Ford (2014), we can also consider the influence of social desirability bias. To put it simply, social desirability bias is when people tend to respond in a way that they believe is socially acceptable or desirable, rather than providing completely honest answers.
+Another problem with surveys and questionnaires could be leading questions or even an overall leading design. Let's consider an example with closed questions.
 
-Which of the methods described in this week's reading would you think would suit your purpose?
-Which data collection methods would you consider using?
-Note that you may find that you could be using a mixture of both the research methods and the data collection methods. These considerations should be included in your presentation of the Project Proposal in Unit 10.
+![T-House survey](/assets/images/banners/T-House%20survey.jpeg)<br>
 
-e-Portfolio update: Data Collection
-Think about which data collection tool will be suitable for your area of investigation (in this module and/or in your Project module). How will you collect it and what analysis would you hope to perform? How will this answer your research question? This should also be included in the presentation of your Project Proposal in 
+In the illustration Chinese think tank has created a survey regarding attitudes towards the U.S. Government's "China Initiative Project" and "Chips Act." Participants are asked to indicate their agreement or disagreement with the following statements (the spelling and punctuation match the original):
+“- It is antithetical to the core values of the scientific community
+- Warning of threat from Chinese academics is a delusion
+- It seriously undermines academic openness and international cooperation
+- It violates the principles of free trade and open markets
+- It is a misbehaviour in great power competition
+- It is pursuing hegemonism”.
+I believe that this is an example of an extremely manipulative type of survey, both in terms of its format (lack of options to disagree) and the questions employed (one-sided, unethical, and provocative). 
+We can observe that this example utilised the nine steps involved in the development of a questionnaire, including deciding the required information, defining the target respondents, etc. (Outram, 2023).
+I think the form of the questions highly inappropriate. If we would like to improve this survey, firstly we should add the option to disagree, or even further, to add a pair to every question with the opposite opinion (from U.S. perspective). 
+However, considering that such surveys are primarily published on platforms controlled by the Chinese government and mainly involve viewers and readers of those media outlets, it is unlikely that the results of such a survey can be taken seriously.
+And here we have smoothly transitioned to the issue of selection bias in internet surveys. According to Greenacre (2016), undercoverage, nonparticipation, and selection are among the primary issues contributing to the problems encountered in internet surveys.
+Thus, research is not always what it seems due to various factors that can influence the outcomes, including the questionnaire format. The way questions are designed and presented in a questionnaire can significantly impact the obtained responses, and the selection of respondents for the questionnaire can introduce bias.
+
+[References](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/References%20survey.txt)
 
 
 ## Unit 7. My first fail
