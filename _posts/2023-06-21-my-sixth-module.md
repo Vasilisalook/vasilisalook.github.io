@@ -56,11 +56,7 @@ In this unit, I independently conducted a small research on the inappropriate us
 
 ## Unit 6. Survey and Questionnaire Design
 
-Research is not always what it seems. I became aware of this through stories related to marketing from a friend of mine, who explained to me the attitude-behavior gap in consumerism many years ago. For instance, in surveys and questionaries, consumers state their preference for buying a yellow or pink coat this autumn, but in reality, they often end up purchasing a grey or black one. Therefore, the actual purchase actions can reveal more about the real priorities and needs of consumers.
-I suppose, in the modern world, this gap problem seems very relevant. Against the backdrop of climate change and the need to reshape our consumer habits, according to surveys, people may willingly embrace "green" consumer behaviour, voluntarily giving up fuel vehicles in favour of electric transport. However, in practice, we discover discrepancy between green attitudes and behaviour (Johnstone & Tan, 2015).
-(Boulstridge & Carrigan, 2000) have firstly described this gap from the perspective of consumer purchase behavior in relation to corporate reputation. However, I began to question the reliability of the research format itself.
-Furthermore, in addition to the main issues of misunderstandings in questionnaires, such as ignoring the instructions and incorrect interpretations of the questions described by Hardy & Ford (2014), we can also consider the influence of social desirability bias. To put it simply, social desirability bias is when people tend to respond in a way that they believe is socially acceptable or desirable, rather than providing completely honest answers.
-Another problem with surveys and questionnaires could be leading questions or even an overall leading design. Let's consider an example with closed questions.
+
 
 ![T-House survey](/assets/images/banners/T-House%20survey.jpeg)<br>
 
