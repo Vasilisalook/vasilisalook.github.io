@@ -71,12 +71,13 @@ In the illustration Chinese think tank has created a survey regarding attitudes 
 - It violates the principles of free trade and open markets
 - It is a misbehaviour in great power competition
 - It is pursuing hegemonism”.
+  
 I believe that this is an example of an extremely manipulative type of survey, both in terms of its format (lack of options to disagree) and the questions employed (one-sided, unethical, and provocative). 
 We can observe that this example utilised the nine steps involved in the development of a questionnaire, including deciding the required information, defining the target respondents, etc. (Outram, 2023).
 I think the form of the questions highly inappropriate. If we would like to improve this survey, firstly we should add the option to disagree, or even further, to add a pair to every question with the opposite opinion (from U.S. perspective). 
 However, considering that such surveys are primarily published on platforms controlled by the Chinese government and mainly involve viewers and readers of those media outlets, it is unlikely that the results of such a survey can be taken seriously.
 And here we have smoothly transitioned to the issue of selection bias in internet surveys. According to Greenacre (2016), undercoverage, nonparticipation, and selection are among the primary issues contributing to the problems encountered in internet surveys.
-Thus, research is not always what it seems due to various factors that can influence the outcomes, including the questionnaire format. The way questions are designed and presented in a questionnaire can significantly impact the obtained responses, and the selection of respondents for the questionnaire can introduce bias.
+Thus, research is not always what it seems due to various factors that can influence the outcomes, including the questionnaire format. The way questions are designed and presented in a questionnaire can significantly impact the obtained responses, and the selection of respondents for the questionnaire can introduce bias. <br>
 
 [References](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/References%20survey.txt)
 
