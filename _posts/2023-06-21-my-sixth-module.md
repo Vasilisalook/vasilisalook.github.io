@@ -57,9 +57,13 @@ In this unit, I independently conducted a small research on the inappropriate us
 ## Unit 6. Survey and Questionnaire Design
 
 Research is not always what it seems. I became aware of this through stories related to marketing from a friend of mine, who explained to me the attitude-behavior gap in consumerism many years ago. For instance, in surveys and questionaries, consumers state their preference for buying a yellow or pink coat this autumn, but in reality, they often end up purchasing a grey or black one. Therefore, the actual purchase actions can reveal more about the real priorities and needs of consumers.
+
 I suppose, in the modern world, this gap problem seems very relevant. Against the backdrop of climate change and the need to reshape our consumer habits, according to surveys, people may willingly embrace "green" consumer behaviour, voluntarily giving up fuel vehicles in favour of electric transport. However, in practice, we discover discrepancy between green attitudes and behaviour (Johnstone & Tan, 2015).
+
 (Boulstridge & Carrigan, 2000) have firstly described this gap from the perspective of consumer purchase behavior in relation to corporate reputation. However, I began to question the reliability of the research format itself.
+
 Furthermore, in addition to the main issues of misunderstandings in questionnaires, such as ignoring the instructions and incorrect interpretations of the questions described by Hardy & Ford (2014), we can also consider the influence of social desirability bias. To put it simply, social desirability bias is when people tend to respond in a way that they believe is socially acceptable or desirable, rather than providing completely honest answers.
+
 Another problem with surveys and questionnaires could be leading questions or even an overall leading design. Let's consider an example with closed questions.
 
 ![T-House survey](/assets/images/banners/T-House%20survey.jpeg)<br>
@@ -73,10 +77,14 @@ In the illustration Chinese think tank has created a survey regarding attitudes 
 - It is pursuing hegemonism”.
   
 I believe that this is an example of an extremely manipulative type of survey, both in terms of its format (lack of options to disagree) and the questions employed (one-sided, unethical, and provocative). 
+
 We can observe that this example utilised the nine steps involved in the development of a questionnaire, including deciding the required information, defining the target respondents, etc. (Outram, 2023).
 I think the form of the questions highly inappropriate. If we would like to improve this survey, firstly we should add the option to disagree, or even further, to add a pair to every question with the opposite opinion (from U.S. perspective). 
+
 However, considering that such surveys are primarily published on platforms controlled by the Chinese government and mainly involve viewers and readers of those media outlets, it is unlikely that the results of such a survey can be taken seriously.
+
 And here we have smoothly transitioned to the issue of selection bias in internet surveys. According to Greenacre (2016), undercoverage, nonparticipation, and selection are among the primary issues contributing to the problems encountered in internet surveys.
+
 Thus, research is not always what it seems due to various factors that can influence the outcomes, including the questionnaire format. The way questions are designed and presented in a questionnaire can significantly impact the obtained responses, and the selection of respondents for the questionnaire can introduce bias. <br>
 
 [References](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/References%20survey.txt)
