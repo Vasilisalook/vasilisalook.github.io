@@ -1,0 +1,15 @@
+References
+
+De Choudhury, E. Kiciman, M. Dredze, G. Coppersmith & M. Kumar (2016) Discovering shifts to suicidal ideation from mental health content in social media, in In Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems, pp. 2098–2110.
+
+Dudău, D.P. (2021) Harnessing the Power of Data Science to Grasp Insights About Human Behaviour, Thinking, and Feeling from Social Media Images. Pathways Between Social Science and Computational Social Science: Theories, Methods, and Interpretations, pp.95-122.
+
+Ji, S., Pan, S., Li, X., Cambria, E., Long, G. & Huang, Z. (2020) Suicidal ideation detection: A review of machine learning methods and applications. IEEE Transactions on Computational Social Systems, 8(1), pp.214-226.
+
+King, A. (June 23, 2018) There were warning signs before Chester Bennington’s suicide, the Linkin Park singer’s widow says. CNN. Available from: https://www.cnn.com/2018/06/23/us/talinda-bennington-suicide-town-hall-cnntv/index.html [Accessed 11 Jul 2023]
+
+Koltai, J., Kmetty, Z. and Bozsonyi, K., 2021. From Durkheim to machine learning: finding the relevant sociological content in depression and suicide-related social media discourses. Pathways Between Social Science and Computational Social Science: Theories, Methods, and Interpretations, pp.237-258.
+
+
+
+
