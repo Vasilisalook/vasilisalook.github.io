@@ -13,9 +13,9 @@ On this page I collected notes on my humble progress during the module...
 
 **Summary Post for the Discussion** <br> 
 
-We had a remarkable discussion with fellow students on the topic of Intelligent Agents in social media. During our conversation about agent-based systems like chatbots, sentiment analysis, and recommender systems, we also delved into the darker side of their development. These tools, while assisting companies in staying competitive by enhancing user engagement and satisfaction through the analysis of user behavior, can also manipulate users. 
+We had a remarkable discussion with fellow students on the topic of Intelligent Agents in social media. During our conversation about agent-based systems like chatbots, sentiment analysis, and recommender systems, we also delved into the darker side of their development. These tools, while assisting companies in staying competitive by enhancing user engagement and satisfaction through the analysis of user behaviour, can also manipulate users. 
 
-Intelligent Agents on social media, striving to keep users constantly scrolling, have caused problems such as information overload, doom-scrolling, shortened attention spans, sexualization of kids, polarization, and the spread of fake news.
+Intelligent Agents on social media, striving to keep users constantly scrolling, have caused problems such as information overload, doom-scrolling, shortened attention spans, sexualisation of kids, polarisation, and the spread of fake news.
 
 Alberto Castro (Castro, 2023) highlighted that recommender systems still have room for improvement, particularly in sensitive areas like data privacy. He provided an example of "bad" targeting, where a customer discovered about his young daughter's pregnancy through targeted ads.<br> 
 Our discussion also touched on bias within recommender systems, which can lead to discrimination against certain user groups and the creation of prejudicial filter bubbles.
