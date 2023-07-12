@@ -116,7 +116,7 @@ At the same time, we must consider ethical considerations. Let us consider a hyp
 
 In summary, the implementation of deep learning for detecting suicidal warnings on social media has the potential to positively impact society by offering early intervention and support to individuals at risk of self-harm. It is crucial to address ethical considerations, privacy protection, the reduction of false positives, and collaboration with mental health professionals during the development and deployment of this technology.
 
-By the way, I have personally experienced the influence of AI while writing this text, as Google provided me with a prominent helpline number for assistance when I searched for information using the word “suicide”. It is worth noting that only Google Scholar appropriately handles queries related to suicide.
+By the way, I have personally experienced the influence of AI while writing this text, as Google provided me with a prominent helpline number for assistance when I searched for information using the word “suicide”. Only Google Scholar appropriately handles queries related to suicide.
 
 [References](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/References%20for%20DL.txt)  <br>
 
