@@ -105,10 +105,10 @@ On the one hand, it can have a significant impact on society, especially in rela
 
 A possible structure for the methodology and technology section could be as follows:
 
-**Data Collection:** Gather a diverse dataset of images from social platforms, encompassing a variety of user-generated content and publicly shared posts.
-**Annotation and Labelling:** Expert annotators review the dataset and assign labels to images that display potential signs of distress or suicidal tendencies.
-**Training of the Deep Learning Model:** The model is trained to recognise patterns and features that indicate suicidal warnings in images.
-**Detection and Alert System:** Develop an application that analyses user-uploaded images in real-time, utilising the trained model to identify potential suicidal warnings. When a warning is detected, an alert is generated and sent to the appropriate authorities or designated support networks for timely intervention.
+**Data Collection:** Gather a diverse dataset of images from social platforms, encompassing a variety of user-generated content and publicly shared posts.<br> 
+**Annotation and Labelling:** Expert annotators review the dataset and assign labels to images that display potential signs of distress or suicidal tendencies.<br> 
+**Training of the Deep Learning Model:** The model is trained to recognise patterns and features that indicate suicidal warnings in images.<br> 
+**Detection and Alert System:** Develop an application that analyses user-uploaded images in real-time, utilising the trained model to identify potential suicidal warnings. When a warning is detected, an alert is generated and sent to the appropriate authorities or designated support networks for timely intervention.<br> 
 
 However, the psychology of suicide is inherently complex. As an illustration, consider the social media posts of Chester Bennington, the singer of Linkin Park, who shared photos of himself smiling before he tragically took his own life. His wife later revealed that there were subtle indications of his distress, including “the hopelessness, the change of behaviour, isolation” (King, 2018). Scholars have acknowledged the presence of a "contradictory relationship between the usage of verbs and suicidal ideation." (De Choudhury et al., 2016). Therefore, relying solely on a single technology such as face emotion recognition is insufficient. Instead, a comprehensive set of features should be incorporated into a well-trained and adaptable deep learning model.
 
