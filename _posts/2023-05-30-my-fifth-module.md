@@ -99,12 +99,14 @@ When I first started studying methods like lemmatisation (reducing a word to its
 
 ## Unit 10. Deep Learning in action
 
-Activity Guidance
-You are required to research an application of Deep Learning that you think is going to have an impact on society (whether that is positive or negative). When you have found your application you should make a post on the discussion forum that covers:
-An overview of the technology (e.g., what it does).
-A brief synopsis of how it works.
-The potential impacts this will have in terms of ethics, privacy, social good, or any other socio-technical aspects that you feel are relevant.
+...Deep Learning for Suicidal Warning Detection text...
+
+
+[References](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/References%20for%20DL.txt)
 
 ## Unit 11. Team Project 2 (Presentation)
 ## Unit 12. Skill Matrix and Action Plan
+
+I undertook this module concurrently with the Research Methods and Professional Practice module. Feel free to review the skill matrix and action plan from [there.](https://vasilisalook.github.io/modules/2023/06/21/my-sixth-module.html)
+
 
