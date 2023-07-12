@@ -99,10 +99,26 @@ When I first started studying methods like lemmatisation (reducing a word to its
 
 ## Unit 10. Deep Learning in action
 
-...Deep Learning for Suicidal Warning Detection text...
+I believe that analysing social media with Deep Learning has already impacted society and will continue to do so even more. Let us consider an example - the Deep Learning algorithms to detect suicidal warnings through posts on social network platforms.
 
+On the one hand, it can have a significant impact on society, especially in relation to mental health support and suicide prevention. Social media contain deliberate and unintended self-disclosures, which can serve as a source of features for psychological interpretations using Deep Learning algorithms, such as CNNs for images or RNNs for short texts (Dudău, 2021; Ji et al., 2020). Through the analysis of visual content shared by users, this technology aims to identify potential signs of distress and offer early intervention to individuals at risk.
 
-[References](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/References%20for%20DL.txt)
+A possible structure for the methodology and technology section could be as follows:
+
+**Data Collection:** Gather a diverse dataset of images from social platforms, encompassing a variety of user-generated content and publicly shared posts.
+**Annotation and Labelling:** Expert annotators review the dataset and assign labels to images that display potential signs of distress or suicidal tendencies.
+**Training of the Deep Learning Model:** The model is trained to recognise patterns and features that indicate suicidal warnings in images.
+**Detection and Alert System:** Develop an application that analyses user-uploaded images in real-time, utilising the trained model to identify potential suicidal warnings. When a warning is detected, an alert is generated and sent to the appropriate authorities or designated support networks for timely intervention.
+
+However, the psychology of suicide is inherently complex. As an illustration, consider the social media posts of Chester Bennington, the singer of Linkin Park, who shared photos of himself smiling before he tragically took his own life. His wife later revealed that there were subtle indications of his distress, including “the hopelessness, the change of behaviour, isolation” (King, 2018). Scholars have acknowledged the presence of a "contradictory relationship between the usage of verbs and suicidal ideation." (De Choudhury et al., 2016). Therefore, relying solely on a single technology such as face emotion recognition is insufficient. Instead, a comprehensive set of features should be incorporated into a well-trained and adaptable deep learning model.
+
+At the same time, we must consider ethical considerations. Let us consider a hypothetical scenario where we can predict potential suicides by analysing a user's profile with a precision rate of 70-90%. What should be the subsequent course of action? Any related application ought to be developed as a supplementary tool to existing mental health services, operating in conjunction with mental health professionals and crisis helplines.
+
+In summary, the implementation of deep learning for detecting suicidal warnings on social media has the potential to positively impact society by offering early intervention and support to individuals at risk of self-harm. It is crucial to address ethical considerations, privacy protection, the reduction of false positives, and collaboration with mental health professionals during the development and deployment of this technology.
+
+By the way, I have personally experienced the influence of AI while writing this text, as Google provided me with a prominent helpline number for assistance when I searched for information using the word “suicide”. It is worth noting that only Google Scholar appropriately handles queries related to suicide.
+
+[References](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/References%20for%20DL.txt)  <br>
 
 ## Unit 11. Team Project 2 (Presentation)
 ## Unit 12. Skill Matrix and Action Plan
