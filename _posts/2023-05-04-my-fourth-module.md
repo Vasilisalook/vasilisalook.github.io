@@ -94,6 +94,7 @@ however there is potential for further research in the virtual simulation world.
 As a journalist I was very enthusiastic about the KRR module. <br>
 In my opinion, as much as the Machine Learning possibilities promise more benefits to biomedicine or manufacturing, 
 the Knowledge and Ontology subjects fits better to social related topics. <br>
+Furthermore, I have developed my critical writing skills in the first assignment, where I had to comment on the content of an article from different perspectives: [Case Study Review.](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/Case%20Study%20Review%20Assignment.docx)
 <br>
 [References](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/ReferencesKRR.txt)
 
