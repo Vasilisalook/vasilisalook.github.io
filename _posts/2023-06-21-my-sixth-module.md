@@ -7,7 +7,10 @@ tags: [research, academic writing, statistics, survey, interview, case studies]
 ---
 ## Summary of the Research Methods and Professional Practice module
 
-On this page I collected notes on my humble progress during the module...
+On this page I collected notes on my humble progress during the module... <br>
+
+![The big ladder of apps](/assets/images/banners/Learning%20apps.JPG) <br>
+
 
 ## Unit 1. Starting Ethically
 
