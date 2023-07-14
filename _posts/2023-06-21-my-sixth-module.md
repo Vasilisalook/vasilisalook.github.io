@@ -110,6 +110,16 @@ Another discussion on ethical concerns surrounding data analysis has taken place
 
 ## Unit 9. Statistics Worksheets
 
+In Unit 8 & 9, we had a statistical worksheet exercise, which was timely in refreshing my knowledge from the Numerous Analyses Module before the capstone project. I encountered three moments of confusion during the exercise. 
+
+Firstly, I didn't grasp the significance of the F-Test for Equality of Two Variances. However, upon reading the literature, I discovered that before comparing means of two groups, it is important to ensure that the data values are independent, randomly sampled from two normal populations, and the two independent groups have equal variances, otherwise it can lead to errors in rejecting the correct null hypothesis. 
+
+Secondly, I was unsure if I correctly understood and interpreted the effectiveness of the filter Agents in exercises 8.4G and 8.5.
+
+Lastly, I'm uncertain whether we can consider the histogram results to be positively skewed if we mentally exclude the negative values in the last exercise. 
+
+Please feel free to read my answers and comments for all the statistical exercises, as well as the related literature references, [from here.](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/U8%269%20-%20Statistics%20Worksheets%20by%20Lukashevich.docx)
+
 ## Unit 10. Research Proposal Presentation
 
 ## Unit 11. Skill Matrix and Action Plan
