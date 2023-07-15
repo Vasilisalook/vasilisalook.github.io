@@ -1,4 +1,4 @@
----
+![image](https://github.com/Vasilisalook/vasilisalook.github.io/assets/93581837/004a05ba-cf51-430f-b8ac-13077b278164)---
 layout: post
 title: Intelligent Agents
 subtitle: The fifth module of the course
@@ -96,7 +96,19 @@ When I first started studying methods like lemmatisation (reducing a word to its
 
 ## Unit 9. Deep Learning
 
-**Collaborative Discussion 3**
+We had another engaging discussion on new Deep Learning tools, such as Dall-E AI and ChatGPT. In addition to the news emerging from Hollywood regarding creator class strikes (Lukashevich, 2023), we still face the unresolved issue of intellectual property rights. 
+
+The generated content is created by a large language model trained on vast amounts of data, which may include copyrighted material. For instance, the U.S. lacks a legislative policy that addresses the attribution of copyrights for AI-produced works (Hristov, 2020).
+
+Feaviour (2023) has posed questions regarding whether the original sources should be regarded as mere "inspiration" rather than direct copies and who holds the liability in the case of copyright infringement. 
+
+However, it was also pointed out by Feaviour (2023) that the US Copyright Office has recently released guidance stating that content produced solely by AI, without significant modifications by a human, is not eligible for copyright protection.
+
+I added, that The United Kingdom is unique among all countries in recognising "computer-generated works" within its domestic law, as highlighted by Lucchi (2023). By broadening the scope of authorship, the UK takes a practical approach to address this issue. Intellectual property laws, as emphasised by GOV.UK (2022), serve as an incentive for scholars, inventors, and businesses to invest their time and resources in innovative pursuits with confidence.
+
+As Rizzo (2023) pointed out, the ethical considerations surrounding AI-generated content are vital issues that require attention. It is necessary for AI to become more transparent and potentially subject to improved regulation. For instance, I propose that relevant information should be displayed alongside pictures or videos, similar to warnings on cigarette packs.
+
+[References](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/ReferenceIA3.txt)
 
 ## Unit 10. Deep Learning in action
 
