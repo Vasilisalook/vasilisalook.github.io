@@ -127,3 +127,5 @@ Please feel free to read my answers and comments for all the statistical exercis
 
 ## Unit 11. Skill Matrix and Action Plan
 
+[My Action plan for 2024-2025](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/U11%20-%20Action%20Plan%20for%20Lukashevich.docx)
+
