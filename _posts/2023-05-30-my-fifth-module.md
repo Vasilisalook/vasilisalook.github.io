@@ -1,4 +1,4 @@
-![image](https://github.com/Vasilisalook/vasilisalook.github.io/assets/93581837/27802ad6-cecd-46bc-bfb9-9b265921dd46)---
+---
 layout: post
 title: Intelligent Agents
 subtitle: The fifth module of the course
@@ -130,7 +130,6 @@ Relying solely on ACLs carries certain risks in agent communication, such as pot
 We also encountered challenges with the frequent renaming and "rebranding" of our two agents to provide clearer explanations of their roles. This process was time-consuming, requiring us to update their names across various related files, including code, README, pictures, and diagrams, to ensure consistency. As a next step, I propose initiating the naming process from scratch. Given the complexity of the agent system, it is more beneficial to start anew rather than attempting to fix the previous project.
 
 By the way, I want to note that my team members are brilliant. Despite the significant time zone differences between China, Ukraine, and Mexico, we have managed to contribute effectively and support each other in every decision.
-
 
 ## Unit 12. Skill Matrix and Action Plan
 
