@@ -5,6 +5,7 @@ subtitle: The fifth module of the course
 categories: Modules
 tags: [agent, AI, multi-agent system, hybrid agent, NLP, ACLs, parse trees, deep learning]
 ---
+
 ## Summary of the Intelligent Agents module
 
 From the pitfalls of smart autonomous systems and agents' dialogue, to NLP and parse trees, and finally to Deep Learning, this page contains my collected notes documenting my progress during the Intelligent Agents module.
