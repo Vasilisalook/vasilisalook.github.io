@@ -1,4 +1,4 @@
-![image](https://github.com/Vasilisalook/vasilisalook.github.io/assets/93581837/004a05ba-cf51-430f-b8ac-13077b278164)---
+---
 layout: post
 title: Intelligent Agents
 subtitle: The fifth module of the course
