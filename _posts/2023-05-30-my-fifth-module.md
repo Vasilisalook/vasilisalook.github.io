@@ -135,6 +135,8 @@ By the way, I have personally experienced the influence of AI while writing this
 
 ## Unit 11. Team Project 2 (Presentation)
 
+[A piece of code for the DNA project](/assets/images/banners/DNAcode.jpg) <br>
+
 This time, in my opinion, the project appears to be more challenging. We began with the previous team project as a starting point, but we ambitiously decided to enhance it by introducing a new agent, transforming from a single-agent system to a multi-agent system. We implemented the entire architecture using both MessageQueue for communication and an agent communication language (ACL) to facilitate agent interactions. Although MessageQueue is not an ACL and not specifically designed for agent communication, it can still serve as a communication mechanism within a multi-agent system. 
 
 The decision to incorporate both communication variants was not an easy one and probably not the best, but we believed it was the most suitable approach. 
