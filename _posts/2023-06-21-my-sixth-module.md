@@ -18,7 +18,7 @@ During the first week of this module, the topic of ethics in the field of comput
 
 **The task:** *Consider yourself as a relevant stakeholder, a Computing professional working for a company of your choice. Examine how one or more of the ethical issues mentioned affect your role in the company and what actions you would need to/can take. You should justify your stance by also reviewing any papers included in this study or other relevant literature. Your discussion should also highlight the impact your actions would have on applicable legal, social and professional issues.*<br>
 
-As a result, I have prepared a research paper that is just under 1000 words in length. It provides comprehensive information and includes a list of references for further reading. <br> 
+As a result, I have prepared a small research paper. It provides comprehensive information and includes a list of references for further reading. <br> 
 You are welcome to download my answer from [here](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/U1%20-%20Ethics%20in%20Computing%20by%20Lukashevich.docx).
 
 ## Unit 2. Codes of Ethics and Professional Conduct
