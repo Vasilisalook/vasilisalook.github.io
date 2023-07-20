@@ -8,7 +8,8 @@ tags: [agent, AI, multi-agent system, hybrid agent, NLP, ACLs, parse trees, deep
 
 ## Summary of the Intelligent Agents module
 
-From the pitfalls of smart autonomous systems and agents' dialogue, to NLP and parse trees, and finally to Deep Learning, this page contains my collected notes documenting my progress during the Intelligent Agents module.
+From the pitfalls of smart autonomous systems and agents' dialogue, to NLP and parse trees, and finally to Deep Learning, this page contains my collected notes documenting my progress during the Intelligent Agents module. <br> 
+[Here](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/Individual%20e-Portfolio%20Intelligent%20Agents.docx) is my concise reflective overview of the entire module.
 
 ## Unit 1. Dark sides of Agent-based systems
 
