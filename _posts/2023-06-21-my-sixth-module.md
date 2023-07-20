@@ -50,7 +50,7 @@ I put a separate [post](https://vasilisalook.github.io/practice/2023/05/17/compa
 
 ## Unit 4. Delving into the data collection methods
 
-In this [Case Study - Privacy](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/Privacy.docx) exercise, I have mentioned the fundamental principles of research ethics, such as data protection, participants' confidentiality, and the responsibility for ensuring that third parties also uphold confidentiality. As a journalist, I am well aware of how frequently these principles are violated. However, I believe that reputable research institutions must prioritise safeguarding their reputation.
+In this [Case Study - Privacy](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/U4%20-%20Privacy%20case%20by%20Lukashevich.docx) exercise, I have mentioned the fundamental principles of research ethics, such as data protection, participants' confidentiality, and the responsibility for ensuring that third parties also uphold confidentiality. As a journalist, I am well aware of how frequently these principles are violated. However, I believe that reputable research institutions must prioritise safeguarding their reputation.
 
 ## Unit 5. Survey Methods
 ![Retracted stamp](/assets/images/banners/retracted.png) <br>
