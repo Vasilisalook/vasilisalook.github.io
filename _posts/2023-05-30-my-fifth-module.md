@@ -152,6 +152,21 @@ By the way, I want to note that my team members are brilliant. Despite the signi
 [Transcript](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/Transcript_MAS.docx)<br> 
 [Code](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/code_MAS.zip)<br> 
 
+(/assets/images/banners/OliS.png)  <br>
+
+Dr. Oli Buckley, a tutor wrote in a feedback:  <br>
+*"The presentation is very good, and demonstrates a really good knowledge of the topic and your system. You presentation style is very accessible and communicates the core ideas clearly and concisely. 
+
+The software that you have developed is very good, offering the key functionality that you have drawn out previously. You have structured your code logically and adhered to good programming practices throughout. 
+
+The implementation of the agents is again very good, showing that you have clearly thought about the different agents and how they might interact with each other. You have a really good grasp of the material and have put that into practice. 
+
+The testing of your solution is comprehensive enough to offer confidence in the material and your solution. You have done a good job of developing appropriate tests and ensuring code coverage. 
+
+The comments are mostly very informative and give an overview of what the code does. I think it would improve things to focus a bit more on this documentation of the code. Try to consider why you have made these choices and why they are important as they will be the things that are lost over time or when handing to a new developer. 
+
+A very good submission that demonstrates a good level of work and a well-functioning team."*
+
 ## Unit 12. Skill Matrix and Action Plan
 
 I undertook this module concurrently with the Research Methods and Professional Practice module. Feel free to review the skill matrix and action plan from [there.](https://vasilisalook.github.io/modules/2023/06/21/my-sixth-module.html)
