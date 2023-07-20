@@ -137,14 +137,19 @@ By the way, I have personally experienced the influence of AI while writing this
 
 ![A piece of code for the DNA project](/assets/images/banners/DNAcode.jpg) <br>
 
-This time, in my opinion, the project appears to be more challenging. We began with the previous team project as a starting point, but we ambitiously decided to enhance it by introducing a new agent, transforming from a single-agent system to a multi-agent system. We implemented the entire architecture using both MessageQueue for communication and an agent communication language (ACL) to facilitate agent interactions. Although MessageQueue is not an ACL and not specifically designed for agent communication, it can still serve as a communication mechanism within a multi-agent system. 
+This time, in my opinion, the project appears to be more challenging. We began with the previous team project as a starting point, but we ambitiously decided to enhance it by introducing a new agent, transforming from a single-agent system to a multi-agent system (MAS). We implemented the entire architecture using both MessageQueue for communication and an agent communication language (ACL) to facilitate agent interactions. Although MessageQueue is not an ACL and not specifically designed for agent communication, it can still serve as a communication mechanism within a multi-agent system. 
 
 The decision to incorporate both communication variants was not an easy one and probably not the best, but we believed it was the most suitable approach. 
 Relying solely on ACLs carries certain risks in agent communication, such as potential delays in negotiation if they cannot be conducted swiftly. "Despite benefits of reaching an agreement, agent negotiations process is presumed as a costly and time consuming practice" (Mahdi et al., 2010)
 
 We also encountered challenges with the frequent renaming and "rebranding" of our two agents to provide clearer explanations of their roles. This process was time-consuming, requiring us to update their names across various related files, including code, README, pictures, and diagrams, to ensure consistency. As a next step, I propose initiating the naming process from scratch. Given the complexity of the agent system, it is more beneficial to start anew rather than attempting to fix the previous project.
 
-By the way, I want to note that my team members are brilliant. Despite the significant time zone differences between China, Ukraine, and Mexico, we have managed to contribute effectively and support each other in every decision.
+By the way, I want to note that my team members are brilliant. Despite the significant time zone differences between China, Ukraine, and Mexico, we have managed to contribute effectively and support each other in every decision. The links for the MAS project files are here:
+
+[Team Project Presentation](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/Team%20Project%20Presentation_MAS.pptx)
+[Audio](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/Audio_MAS.mp3)
+[Transcript](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/Transcript_MAS.docx)
+[Code](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/code_MAS.zip)
 
 ## Unit 12. Skill Matrix and Action Plan
 
