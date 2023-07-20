@@ -146,10 +146,10 @@ We also encountered challenges with the frequent renaming and "rebranding" of ou
 
 By the way, I want to note that my team members are brilliant. Despite the significant time zone differences between China, Ukraine, and Mexico, we have managed to contribute effectively and support each other in every decision. The links for the MAS project files are here:
 
-[Team Project Presentation](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/Team%20Project%20Presentation_MAS.pptx)
-[Audio](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/Audio_MAS.mp3)
-[Transcript](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/Transcript_MAS.docx)
-[Code](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/code_MAS.zip)
+[Team Project Presentation](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/Team%20Project%20Presentation_MAS.pptx)<br> 
+[Audio](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/Audio_MAS.mp3)<br> 
+[Transcript](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/Transcript_MAS.docx)<br> 
+[Code](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/code_MAS.zip)<br> 
 
 ## Unit 12. Skill Matrix and Action Plan
 
