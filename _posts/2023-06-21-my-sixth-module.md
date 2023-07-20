@@ -39,7 +39,7 @@ Constantinos Kyriacou (Kyriacou, 2023) pointed out that humanity must take full 
 
 In conclusion, I have not come across recent information from scholars regarding ethical issues in the use of AI in the military. The most recent studies on this sensitive topic were published two to three years ago. For example, "How viable is international arms control for military artificial intelligence? Three lessons from nuclear weapons" (Maas, 2019). However, I believe this theme remains relevant, and scholars should raise more questions about it in the context of ethics.<br> 
 
-You are welcome to find the list of references [here.](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/PP_Unit2_References.txt)
+You are welcome to find the list of references [here](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/PP_Unit2_References.txt) and an extended version of the duscussion [here.](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/U2%20-%20Collaborative%20Learning%20Discussion%201%20by%20Lukashevich.docx)
 
 ## Unit 3. Research Methods
 
