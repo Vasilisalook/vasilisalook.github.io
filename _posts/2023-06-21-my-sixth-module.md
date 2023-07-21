@@ -7,11 +7,15 @@ tags: [ACM ethics, research, academic writing, statistics, survey, questionnaire
 ---
 ## Summary of the Research Methods and Professional Practice module
 
+
+
 In the picture below is my progress in grasping new applications during my study at Essex, while on this page, I have collected notes on my progress during the last core learning module in my program. <br>
 [The reflective part of the entire module is here.](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/!Individual%20e-Portfolio.%20Reflective%20part.docx) <br>
 [A condensed digital copy of notes for each module in one file is also available here.](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/!Individual%20e-Portfolio.%2012%20Units.docx) <br>
 
 ![The big ladder of apps](/assets/images/banners/Learning%20apps.JPG) <br>
+
+[Here is a link to a zip folder with all the related artifacts.](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/RMPP%20module.zip)
 
 
 ## Unit 1. Starting Ethically
