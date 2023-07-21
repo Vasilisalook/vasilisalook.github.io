@@ -143,5 +143,8 @@ Karen Outram, a tutor in the module, provided the following feedback: <br>
 
 ## Unit 11. Skill Matrix and Action Plan
 
-[My Action plan for 2024-2025](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/U11%20-%20Action%20Plan%20for%20Lukashevich.docx)
+[Skill Matrix](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/U11%20-%20Professional%20Skills%20Matrix%20Lukashevich.xlsx)<br>
+[SWOT Analysis](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/U11%20-%20SWOT%20Analysis%20Lukashevich.docx)<br>
+[My Action plan for 2024-2025](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/U11%20-%20Action%20Plan%20for%20Lukashevich.docx)<br>
+
 
