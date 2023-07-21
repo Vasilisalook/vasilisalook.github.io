@@ -107,7 +107,9 @@ From the outset, I recognised the necessity of reviewing a substantial amount of
 
 However, I overlooked a very important aspect of academic writing. In certain explanations, I unintentionally included parts of sentences from related sources without proper citation. Although I mentioned all these papers in the reference list, it became apparent that this approach was highly inappropriate. The Turnitin software flagged 30% of the text as non-original, even though, in the Literature Review format, this indicator should ideally be between 0% and 10% (despite the fact that Academic integrity only accounts for 10% of the overall grade). Due to the lack of my own academic voice in writing, I failed to meet one of the most crucial criteria - Knowledge and understanding (30% of the overall grade).
 
-According to tutors, another issue with my review is its predominantly descriptive nature, lacking critical analysis. I am advised to incorporate more pros and cons into the discussion, not solely relying on comparing model results, but also expressing my own perspective on the primary issue highlighted in the topic.
+According to tutors, another issue with my review is its predominantly descriptive nature, lacking critical analysis. I am advised to incorporate more pros and cons into the discussion, not solely relying on comparing model results, but also expressing my own perspective on the primary issue highlighted in the topic. 
+
+More reflections and references is [in this file.](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/U7%20-%20Literature%20Review%20Reflections%20by%20Lukashevich.docx)
 
 ## Unit 8. Case Study: Accuracy of information
 
