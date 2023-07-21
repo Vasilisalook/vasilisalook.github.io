@@ -3,7 +3,7 @@ layout: post
 title: Research Methods & Professional Practice
 subtitle: The sixth module of the course
 categories: Modules
-tags: [research, academic writing, statistics, survey, interview, case studies]
+tags: [ACM ethics, research, academic writing, statistics, survey, questionnaire, case studies, critical writing]
 ---
 ## Summary of the Research Methods and Professional Practice module
 
