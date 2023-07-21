@@ -133,15 +133,17 @@ Please feel free to read my answers and comments for all the statistical exercis
 
 In this unit, I have finally completed the preparation of a Research Proposal Presentation on the topic of "Comparative Analysis of Political Bias Detection Results in the 'HonestyMeter' and 'Bias-o-meter' AI Tools." Since the beginning of my studies at the University of Essex, I have been certain that I want to focus my MSc project on bias detection in media using AI algorithms. The work presented here marks the initial phase of my Capstone project, laying the foundation for further exploration in this area. <br>
 
+[Research Proposal Presentation](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/Bias%20Detection%20Presentation.pptx)  <br>
+[Audio](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/Bias%20Detection%20Presentation%20Audio.mp3)  <br>
+[Transcript](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/Bias%20Detection%20Transcript.docx)  <br>
+
 ![Karen Outram](/assets/images/banners/KarenS.png) <br>
 
 Karen Outram, a tutor in the module, provided the following feedback: <br>
 
 "Very good knowledge of the topic demonstrated with a logical and practical application of knowledge discussed regarding the topic examined. Content and discussion are focused and apply to the core topic proposed for the summative... Very good level of critical discussion, [with an improvement from the first summative]... The presentation is completed to a very good standard, with a logical layout and good use of grammar and spelling".<br>
 
-[Research Proposal Presentation](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/Bias%20Detection%20Presentation.pptx)  <br>
-[Audio](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/Bias%20Detection%20Presentation%20Audio.mp3)  <br>
-[Transcript](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/Bias%20Detection%20Transcript.docx)  <br>
+
 
 ## Unit 11. Skill Matrix and Action Plan
 
