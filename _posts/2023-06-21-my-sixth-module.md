@@ -129,6 +129,10 @@ Please feel free to read my answers and comments for all the statistical exercis
 
 ## Unit 10. Research Proposal Presentation
 
+[Research Proposal Presentation](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/Bias%20Detection%20Presentation.pptx)  <br>
+[Audio](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/Bias%20Detection%20Presentation%20Audio.mp3)  <br>
+[Transcript](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/Bias%20Detection%20Transcript.docx)  <br>
+
 ## Unit 11. Skill Matrix and Action Plan
 
 [My Action plan for 2024-2025](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/U11%20-%20Action%20Plan%20for%20Lukashevich.docx)
