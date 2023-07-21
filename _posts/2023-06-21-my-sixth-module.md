@@ -8,18 +8,15 @@ tags: [ACM ethics, research, academic writing, statistics, survey, questionnaire
 ## Summary of the Research Methods and Professional Practice module
 
 In the picture below is my progress in grasping new applications during my study at Essex, while on this page, I have collected notes on my progress during the last core learning module in my program. <br>
-The reflective part of the entire module is here. <br>
-A condensed digital copy of notes for each module in one file is also available here. <br>
+[The reflective part of the entire module is here.](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/!Individual%20e-Portfolio.%20Reflective%20part.docx) <br>
+[A condensed digital copy of notes for each module in one file is also available here.](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/!Individual%20e-Portfolio.%2012%20Units.docx) <br>
 
 ![The big ladder of apps](/assets/images/banners/Learning%20apps.JPG) <br>
 
 
 ## Unit 1. Starting Ethically
 
-During the first week of this module, the topic of ethics in the field of computing was suggested for discussion. <br>
-
-**The task:** *Consider yourself as a relevant stakeholder, a Computing professional working for a company of your choice. Examine how one or more of the ethical issues mentioned affect your role in the company and what actions you would need to/can take. You should justify your stance by also reviewing any papers included in this study or other relevant literature. Your discussion should also highlight the impact your actions would have on applicable legal, social and professional issues.*<br>
-
+During the first week of this module, the topic of ethics in the field of computing was suggested for discussion. <br> 
 As a result, I have prepared a small research paper. It provides comprehensive information and includes a list of references for further reading. <br> 
 You are welcome to download my answer from [here](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/U1%20-%20Ethics%20in%20Computing%20by%20Lukashevich.docx).
 
@@ -138,7 +135,6 @@ In this unit, I have finally completed the preparation of a Research Proposal Pr
 Karen Outram, a tutor in the module, provided the following feedback: <br>
 
 "Very good knowledge of the topic demonstrated with a logical and practical application of knowledge discussed regarding the topic examined. Content and discussion are focused and apply to the core topic proposed for the summative... Very good level of critical discussion, [with an improvement from the first summative]... The presentation is completed to a very good standard, with a logical layout and good use of grammar and spelling".<br>
-
 
 
 ## Unit 11. Skill Matrix and Action Plan
