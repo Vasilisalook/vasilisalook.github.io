@@ -17,7 +17,7 @@ In the picture below is my progress in grasping new applications during my study
 ## Unit 1. Starting Ethically
 
 During the first week of this module, the topic of ethics in the field of computing was suggested for discussion. <br> 
-As a result, I have prepared a small research paper. It provides comprehensive information and includes a list of references for further reading. <br> 
+As a result, I have prepared a small research paper. It provides comprehensive information and includes a list of references for further reading. 
 You are welcome to download my answer from [here](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/U1%20-%20Ethics%20in%20Computing%20by%20Lukashevich.docx).
 
 ## Unit 2. Codes of Ethics and Professional Conduct
