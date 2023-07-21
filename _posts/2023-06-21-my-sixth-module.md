@@ -25,8 +25,6 @@ You are welcome to download my answer from [here](https://github.com/Vasilisaloo
 
 ## Unit 2. Codes of Ethics and Professional Conduct
 
-**Summary Post for the discussion**
-
 We had an engaging discussion with fellow students on the topic of the ethics code, based on an illustrative case from the Association of Computing Machinery website: “Automated Active Response Weaponry”. 
 
 In this particular case, a company violated several rules of the ACM Code of Ethics and Professional Conduct. For instance, developers ignored Principle 1.2 (avoid harm), Principle 1.1 (contribute to society and human well-being), Principle 1.6 (respect privacy),and Principle 1.4 (do not discriminate). 
@@ -44,8 +42,6 @@ In conclusion, I have not come across recent information from scholars regarding
 You are welcome to find the list of references [here](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/PP_Unit2_References.txt) and an extended version of the duscussion [here.](https://github.com/Vasilisalook/vasilisalook.github.io/blob/main/U2%20-%20Collaborative%20Learning%20Discussion%201%20by%20Lukashevich.docx)
 
 ## Unit 3. Research Methods
-
-**Comparing two papers in a Computing field**
 
 This unit helped me to better understand research design and methodology for a specific study. I have compared two papers in the field of Computing to enhance my proficiency in delivering a critical review of existing literature.
 I put a separate [post](https://vasilisalook.github.io/practice/2023/05/17/comparing-two-papers.html) about it, you are welcome to click and read. 
