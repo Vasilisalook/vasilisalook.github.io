@@ -7,7 +7,9 @@ tags: [research, academic writing, statistics, survey, interview, case studies]
 ---
 ## Summary of the Research Methods and Professional Practice module
 
-On this page I collected notes on my humble progress during the module... <br>
+In the picture below is my progress in grasping new applications during my study at Essex, while on this page, I have collected notes on my progress during the last core learning module in my program. <br>
+The reflective part of the entire module is here. <br>
+A condensed digital copy of notes for each module in one file is also available here. <br>
 
 ![The big ladder of apps](/assets/images/banners/Learning%20apps.JPG) <br>
 
