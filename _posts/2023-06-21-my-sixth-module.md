@@ -109,7 +109,7 @@ However, I overlooked a very important aspect of academic writing. In certain ex
 
 According to tutors, another issue with my review is its predominantly descriptive nature, lacking critical analysis. I am advised to incorporate more pros and cons into the discussion, not solely relying on comparing model results, but also expressing my own perspective on the primary issue highlighted in the topic. 
 
-More reflections and references is [in this file.](/blob/main/U7%20-%20Literature%20Review%20Reflections%20by%20Lukashevich.docx)
+More reflections and references is [in this file.](/main/U7%20-%20Literature%20Review%20Reflections%20by%20Lukashevich.docx)
 
 ## Unit 8. Case Study: Accuracy of information
 
